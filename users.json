@@ -3,16 +3,20 @@
     {
       "username": "admin",
       "password": "1234",
-      "expire": "2025-01-01",
+      "expire": "2026-12-01",
       "active": true,
-      "playlist": "vip"
+      "playlist": "vip",
+      "fullname": "administrator",
+      "tel": "0819276979"
     },
     {
       "username": "test",
       "password": "abcd",
-      "expire": "2025-01-01",
+      "expire": "2026-07-01",
       "active": true,
-      "playlist": "basic"
+      "playlist": "basic",
+      "fullname": "test test",
+      "tel": "123456789"
     }
   ]
 }
