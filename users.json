@@ -3,7 +3,7 @@
     {
       "username": "admin",
       "password": "1234",
-      "expire": "2026-12-01",
+      "expire": "2027-12-01",
       "active": true,
       "playlist": "vip",
       "fullname": "administrator",
@@ -12,7 +12,7 @@
     {
       "username": "test",
       "password": "abcd",
-      "expire": "2026-07-01",
+      "expire": "2027-07-01",
       "active": true,
       "playlist": "basic",
       "fullname": "test test",
