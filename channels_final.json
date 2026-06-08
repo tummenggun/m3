@@ -159,7 +159,8 @@
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/41",
         "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8",
-        "https://love.sayob28681.workers.dev:443/lx-origin/sd-asianfood_720/playlist.m3u8"
+        "https://love.sayob28681.workers.dev:443/lx-origin/sd-asianfood_720/playlist.m3u8",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/288.m3u8"
       ]
     },
     {
@@ -763,7 +764,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=e26dbe35-41fe-456a-823b-2facb650fa2a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay"
+        "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=e26dbe35-41fe-456a-823b-2facb650fa2a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+        "https://one.shchenyu8810.workers.dev/live/one/index.m3u8"
       ]
     },
     {
@@ -1114,7 +1116,7 @@
       "display_name": "TSP HD1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
-      "referer": "",
+      "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/18904",
@@ -1145,7 +1147,7 @@
       "display_name": "TSP HD3",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport3.png",
-      "referer": "",
+      "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/51379",
@@ -1253,12 +1255,12 @@
       "display_name": "BEIN 1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
-      "referer": "",
+      "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/102",
         "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/102"
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8"
       ]
     },
     {
@@ -1270,9 +1272,9 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/104",
         "https://love.sayob28681.workers.dev:443/vx-origin/epl-bein2_720/playlist.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/104"
+        "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8"
       ]
     },
     {
@@ -1281,13 +1283,13 @@
       "display_name": "BEIN 3",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein3th.png",
-      "referer": "",
+      "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/105",
         "https://love.sayob28681.workers.dev:443/vx-origin/epl-bein3_720/playlist.m3u8",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/105"
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8"
       ]
     },
     {
@@ -1352,7 +1354,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/47616"
+        "http://103.114.203.129:8080/playidvip/12345/47616",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/285.m3u8"
       ]
     },
     {
@@ -1379,7 +1382,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/79"
+        "http://103.114.203.129:8080/playidvip/12345/79",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/143.m3u8"
       ]
     },
     {
@@ -1443,8 +1447,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-3_720/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/50364"
+        "http://103.114.203.129:8080/playidvip/12345/50364",
+        "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-3_720/chunks.m3u8"
       ]
     },
     {
@@ -1456,9 +1460,9 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51498",
         "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
-        "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/51498"
+        "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8"
       ]
     },
     {
@@ -2001,6 +2005,18 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/10"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "food network",
+      "display_name": "Food Network",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-food.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/287.m3u8/"
       ]
     }
   ]
