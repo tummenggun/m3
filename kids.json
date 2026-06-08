@@ -1,0 +1,64 @@
+{
+  "channels": [
+    {
+      "id": 17,
+      "name": "cartoonnetworks",
+      "display_name": "Cartoon Networks",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/cartoonnetwork.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-cartoonnetwork_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "nickjr",
+      "display_name": "Nick Jr",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nickjr.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.bebin98399.workers.dev/lx-origin/sd-nickjr_480/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "nicklodeon",
+      "display_name": "NICKELODEON",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nickodon.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-nickelodeon_480/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "truenickjr",
+      "display_name": "truenickjr",
+      "group": "Kids",
+      "logo": "",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/61463"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "zoomoo",
+      "display_name": "zoomoo",
+      "group": "Kids",
+      "logo": "",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      ]
+    }
+  ]
+}

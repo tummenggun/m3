@@ -1,0 +1,226 @@
+{
+  "channels": [
+    {
+      "id": 12,
+      "name": "afn",
+      "display_name": "Asian Food Network",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/afn.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/41",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8",
+        "https://love.sayob28681.workers.dev:443/lx-origin/sd-asianfood_720/playlist.m3u8",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/288.m3u8"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "aisDiscover",
+      "display_name": "DISCOVERY CHANNEL",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-discovery.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/47",
+        "https://love.sayob28681.workers.dev:443/lx-origin/sd-discovery_720/playlist.m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "bbcearth",
+      "display_name": "BBC EARTH",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bbcearth.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1163702&extension=m3u8"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "ci",
+      "display_name": "ci",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ci.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/61492"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "discoveryasia",
+      "display_name": "DISCOVERY ASIA",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/disasia.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://liveera.live/demo_app/1606/playlist.m3u8",
+        "http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "discoveryturbo",
+      "display_name": "Discovery TURBO",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/discoveryturbo.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97094&extension=m3u8"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "dmax",
+      "display_name": "DMAX",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/dmax.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=303709&extension=m3u8"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "outdoor",
+      "display_name": "OUT DOOR",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/Outdoor.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776136&extension=m3u8",
+        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1776136&extension=m3u8"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "tlc",
+      "display_name": "TLC",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tlc.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/69",
+        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115688&extension=m3u8&play_token=",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-tlc_720/chunks.m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115688&extension=m3u8"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "trueAXN",
+      "display_name": "AXN HD",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/axn.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.uh6wzyncw9.workers.dev/vx-origin/hd-axn_720/chunks.m3u8",
+        "https://liveera.live/demo_app/2650/playlist.m3u8",
+        "https://love.bebin98399.workers.dev/lx-origin/hd-axnbkp_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "trueBBCLIFESTYLE",
+      "display_name": "trueBBCLIFESTYLE",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bbc.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/58898"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "trueHISTORY",
+      "display_name": "HISTORY",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/history.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/75219",
+        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115715&extension=m3u8&play_token=",
+        "https://love.bebin98399.workers.dev/vx-origin/hd-history_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "trueexplorelife",
+      "display_name": "True Explore Life",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-explife.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8",
+        "http://119.59.118.168/live/ch58/thailosonic2026/index.m3u8"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "trueexploresci",
+      "display_name": "True Explore Sci",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-expsci.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "trueexplorewild",
+      "display_name": "True Explore Wild",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-expwild.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/47616",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/285.m3u8"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "truexzyte",
+      "display_name": "TRUE X-ZYTE",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/x-zyte.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.bebin98399.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/82"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "food network",
+      "display_name": "Food Network",
+      "group": "Documentary",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-food.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/287.m3u8/"
+      ]
+    }
+  ]
+}

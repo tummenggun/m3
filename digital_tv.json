@@ -1,0 +1,209 @@
+{
+  "channels": [
+    {
+      "id": 154,
+      "name": "3HD",
+      "display_name": "3 HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ch3.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/33"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "5HD",
+      "display_name": "5 HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ch5.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/56"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "7HD",
+      "display_name": "7 HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ch7.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/35"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "MCOT HD",
+      "display_name": "MCOT HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/mcot.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/30"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "NBT HD",
+      "display_name": "NBT HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nbt.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "TPBS HD",
+      "display_name": "TPBS HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tpbs.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "ONE HD",
+      "display_name": "ONE HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/one.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/31"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "AMARIN TV",
+      "display_name": "AMARIN TV",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/amarin.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/34"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "PPTV HD",
+      "display_name": "PPTV HD",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/pptv.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/36"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "MONO Plus",
+      "display_name": "MONO Plus",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monoplus.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/1709"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "GMM TV",
+      "display_name": "GMM TV",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/gmm.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/25"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "TRUE4U",
+      "display_name": "TRUE 4U",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/true4u.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/24"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "TNN24",
+      "display_name": "TNN 24",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tnn24.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/18892"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "NATION22",
+      "display_name": "NATION22",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nation.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/22"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "TOPNEWS",
+      "display_name": "TOPNEWS",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/topnew.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://live.topnews.co.th/hls/mobile_v1.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/49844"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "CH8",
+      "display_name": "CH8",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ch8.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/27"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "TPTV",
+      "display_name": "TPTV",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tptv.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/10"
+      ]
+    }
+  ]
+}

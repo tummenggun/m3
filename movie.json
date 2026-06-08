@@ -1,0 +1,228 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "HBOFAMILY",
+      "display_name": "HBO FAMILY",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hbofamily.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/61464",
+        "https://liveera.live/demo_app/2816/playlist.m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "HBOHits",
+      "display_name": "HBO HITS",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hbohit.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/61461",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8",
+        "https://love.bebin98399.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8",
+        "https://liveera.live/demo_app/2819/playlist.m3u8"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "HBOSignature",
+      "display_name": "HBO SIGNATURE",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hbosig.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/61462",
+        "https://love.bebin98399.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8",
+        "https://liveera.live/demo_app/2818/playlist.m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115708&extension=m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "HBO",
+      "display_name": "HBO",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hbo.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/77",
+        "https://love.bebin98399.workers.dev/lx-origin/th-hbo_720/chunks.m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbo_720/chunks.m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "cinemaxth",
+      "display_name": "CINEMAX",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/cine.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/59047",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8",
+        "https://love.bebin98399.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8",
+        "https://liveera.live/demo_app/2815/playlist.m3u8"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "mtvclassic",
+      "display_name": "MTV Classic",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/MTV_Classic.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97105&extension=m3u8"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "trueasiamore",
+      "display_name": "TRUE ASIANMORE",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trueasian.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/80",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115609&extension=m3u8",
+        "https://love.pifipa2974.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "trueccm",
+      "display_name": "TRUE CCM",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trueccm.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/53789",
+        "https://love.pifipa2974.workers.dev/lx-origin/sd-celestial_480/chunks.m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115635&extension=m3u8"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "truedreamworks",
+      "display_name": "Dreamworks",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-dreamworks.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/54",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "truefilm1",
+      "display_name": "TRUE FILMHD 1",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truefilm1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115415&extension=m3u8",
+        "http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115415.m3u8",
+        "https://love.sayob28681.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/67"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "truefilm2",
+      "display_name": "TRUE FILMHD 2",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truefilm2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/79",
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/143.m3u8"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "truefilmasia",
+      "display_name": "TRUE FILMASIA",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truefilmasia.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8",
+        "https://love.bebin98399.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "truemoviehit",
+      "display_name": "TRUE MOVIE HIT",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/moviehit.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8",
+        "https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/66"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "trueseries",
+      "display_name": "TRUE SERIES",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trueser.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/138",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "truethaifilm",
+      "display_name": "TRUE THAIFILM",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truethaifilm.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/64"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "truewb",
+      "display_name": "WARNER TV",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/WANER.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=563012&extension=m3u8",
+        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=563012&extension=m3u8&play_token=",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8"
+      ]
+    }
+  ]
+}
