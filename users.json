@@ -13,7 +13,7 @@
       "username": "test",
       "password": "abcd",
       "expire": "2027-07-01",
-      "active": false,
+      "active": true,
       "playlist": "basic",
       "fullname": "test test",
       "tel": "123456789"
