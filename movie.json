@@ -10,8 +10,8 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/61464",
-        "https://liveera.live/demo_app/2816/playlist.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8"
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563001&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776089&extension=m3u8"
       ]
     },
     {
@@ -24,9 +24,8 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/61461",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8",
-        "https://love.bebin98399.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8",
-        "https://liveera.live/demo_app/2819/playlist.m3u8"
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115833&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776088&extension=m3u8"
       ]
     },
     {
@@ -39,8 +38,8 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/61462",
-        "https://love.bebin98399.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8",
-        "https://liveera.live/demo_app/2818/playlist.m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115708&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776092&extension=m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115708&extension=m3u8",
         "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8"
       ]
@@ -55,8 +54,8 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/77",
-        "https://love.bebin98399.workers.dev/lx-origin/th-hbo_720/chunks.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbo_720/chunks.m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776094&extension=m3u8",
+        "http://119.59.118.168/live/ch26/178147261323967/index.m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8"
       ]
     },
@@ -70,9 +69,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/59047",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8",
-        "https://love.bebin98399.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8",
-        "https://liveera.live/demo_app/2815/playlist.m3u8"
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8"
       ]
     },
     {
@@ -98,7 +95,7 @@
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/80",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115609&extension=m3u8",
-        "https://love.pifipa2974.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8"
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563002&extension=m3u8"
       ]
     },
     {
@@ -111,7 +108,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/53789",
-        "https://love.pifipa2974.workers.dev/lx-origin/sd-celestial_480/chunks.m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776023&extension=m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115635&extension=m3u8"
       ]
     },
@@ -138,8 +135,9 @@
       "user_agent": "",
       "urls": [
         "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115415&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776049&extension=m3u8",
         "http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115415.m3u8",
-        "https://love.sayob28681.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115415&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/67"
       ]
     },
@@ -153,7 +151,9 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/79",
-        "http://6395online.com:8080/live/iptv591@gmail.com/456672/143.m3u8"
+        "http://6395online.com:8080/live/iptv591@gmail.com/456672/143.m3u8",
+        "http://6395online.com:8080/live/Iptv6988/0905692638/143.m3u8",
+        "http://119.59.118.168/live/ch55/178147261323967/index.m3u8"
       ]
     },
     {
@@ -165,8 +165,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8",
-        "https://love.bebin98399.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8"
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776052&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/70"
       ]
     },
     {
@@ -178,8 +178,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8",
-        "https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115720&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776096&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/66"
       ]
     },
@@ -205,8 +205,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776050&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/64"
       ]
     },
