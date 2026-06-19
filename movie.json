@@ -9,9 +9,10 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61464",
+        "http://54.37.19.157/hbof/tracks-v1a1/playlist.m3u8",
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563001&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776089&extension=m3u8"
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776089&extension=m3u8",
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=563001&extension=m3u8"
       ]
     },
     {
@@ -23,7 +24,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61461",
+        "http://54.37.19.157/hboh/tracks-v1a1/playlist.m3u8",
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115833&extension=m3u8",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776088&extension=m3u8"
       ]
@@ -37,11 +38,10 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61462",
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115708&extension=m3u8",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776092&extension=m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115708&extension=m3u8",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8"
+        "http://54.37.19.157/hbos/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/77",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776094&extension=m3u8",
-        "http://119.59.118.168/live/ch26/178147261323967/index.m3u8",
+        "http://54.37.19.157/hbohd/tracks-v1a1/playlist.m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8"
       ]
     },
@@ -68,8 +68,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/59047",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8"
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8",
+        "http://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -95,7 +95,8 @@
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/80",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115609&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563002&extension=m3u8"
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563002&extension=m3u8",
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=563002&extension=m3u8"
       ]
     },
     {
@@ -138,7 +139,8 @@
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776049&extension=m3u8",
         "http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115415.m3u8",
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115415&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/67"
+        "http://103.114.203.129:8080/playidvip/12345/67",
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115415&extension=m3u8"
       ]
     },
     {
@@ -180,7 +182,8 @@
       "urls": [
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115720&extension=m3u8",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776096&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/66"
+        "http://103.114.203.129:8080/playidvip/12345/66",
+        "http://54.37.19.157/moviehits/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -193,7 +196,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/138",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-series_720/chunks.m3u8"
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115782&extension=m3u8"
       ]
     },
     {
@@ -206,7 +209,8 @@
       "user_agent": "",
       "urls": [
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776050&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/64"
+        "http://103.114.203.129:8080/playidvip/12345/64",
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115667&extension=m3u8"
       ]
     },
     {
