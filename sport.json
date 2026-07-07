@@ -430,7 +430,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776176&extension=m3u8",
+        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/51336",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
         "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8"
@@ -553,7 +553,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=e26dbe35-41fe-456a-823b-2facb650fa2a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+        "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403",
         "https://one.shchenyu8810.workers.dev/live/one/index.m3u8"
       ]
     },
@@ -641,9 +641,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-f1_720/playlist.m3u8",
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458661&extension=m3u8",
-        "http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:CA:7C:80&stream=1388606&extension=m3u8",
         "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8"
       ]
     },
@@ -656,8 +653,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394555&extension=m3u8",
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458660&extension=m3u8"
+        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394555&extension=m3u8"
       ]
     },
     {
@@ -669,8 +665,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312245&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-golf_720/playlist.m3u8"
+        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312245&extension=m3u8"
       ]
     },
     {
@@ -682,8 +677,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394553&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-mainevent_720/playlist.m3u8"
+        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394553&extension=m3u8"
       ]
     },
     {
@@ -696,8 +690,7 @@
       "user_agent": "",
       "urls": [
         "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458657&extension=m3u8",
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394551&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-mix_720/playlist.m3u8"
+        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394551&extension=m3u8"
       ]
     },
     {
@@ -709,7 +702,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-news_720/playlist.m3u8",
         "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8"
       ]
     },
@@ -722,7 +714,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97131&extension=m3u8",
         "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312247&extension=m3u8"
       ]
     },
@@ -975,12 +966,12 @@
       "display_name": "BEIN 2",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2th.png",
-      "referer": "",
+      "referer": "https://warpdooball.net/",
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/104",
         "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8"
+        "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8"
       ]
     },
     {
