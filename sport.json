@@ -161,7 +161,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97120&extension=m3u8"
+        "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=237604&extension=ts"
       ]
     },
     {
@@ -173,7 +173,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=m3u8"
+        "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=237605&extension=ts"
       ]
     },
     {
