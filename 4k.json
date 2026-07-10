@@ -5,7 +5,7 @@
       "id": 1,
       "name": "V Sport",
       "display_name": "V Sport 4K",
-      "group": "Kids",
+      "group": "4k",
       "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
       "referer": "",
       "user_agent": "",
@@ -14,11 +14,11 @@
       ]
     },
     {
-      "id": 57,
-      "name": "nickjr",
+      "id": 2,
+      "name": "beIN",
       "display_name": "beIN 4K 01",
-      "group": "Kids",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nickjr.png",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
       "referer": "",
       "user_agent": "",
       "urls": [
@@ -26,39 +26,39 @@
       ]
     },
     {
-      "id": 58,
-      "name": "nicklodeon",
-      "display_name": "NICKELODEON",
-      "group": "Kids",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nickodon.png",
+      "id": 3,
+      "name": "TNT Sport",
+      "display_name": "TNT Sport 4K 01",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-nickelodeon_480/chunks.m3u8"
+        "http://weaseltv.live:80/play/live.php?mac=00:1B:79:FF:09:C5&stream=1595637&extension=ts"
       ]
     },
     {
-      "id": 126,
-      "name": "truenickjr",
-      "display_name": "truenickjr",
-      "group": "Kids",
-      "logo": "",
+      "id": 4,
+      "name": "Sky Main Event",
+      "display_name": "Main Event 4K 01",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61463"
+        "http://weaseltv.live:80/play/live.php?mac=00:1B:79:FF:09:C5&stream=1641636&extension=ts"
       ]
     },
     {
-      "id": 142,
-      "name": "zoomoo",
-      "display_name": "zoomoo",
-      "group": "Kids",
-      "logo": "",
+      "id": 5,
+      "name": "Sky Sport F1",
+      "display_name": "Sky Sport F1 4K",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+        "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=1312007&extension=ts"
       ]
     }
   ]
