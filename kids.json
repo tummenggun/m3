@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "id": 17,
+      "id": 1,
       "name": "cartoonnetworks",
       "display_name": "Cartoon Networks",
       "group": "Kids",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "id": 57,
+      "id": 2,
       "name": "nickjr",
       "display_name": "Nick Jr",
       "group": "Kids",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 3,
       "name": "nicklodeon",
       "display_name": "NICKELODEON",
       "group": "Kids",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": 126,
+      "id": 4,
       "name": "truenickjr",
       "display_name": "truenickjr",
       "group": "Kids",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "id": 142,
+      "id": 5,
       "name": "zoomoo",
       "display_name": "zoomoo",
       "group": "Kids",
