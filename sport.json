@@ -1,6 +1,219 @@
 {
   "channels": [
     {
+      "id": 101,
+      "name": "true1",
+      "display_name": "TSP HD1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
+      "referer": "https://tubtoeball.net/",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/18904",
+        "http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8",
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8",
+        "https://love.sayob28681.workers.dev:443/lx-origin/th-tsporthd1_720/playlist.m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115531&extension=m3u8"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "true2",
+      "display_name": "TSP HD2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115533&extension=m3u8",
+        "http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8",
+        "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "true3",
+      "display_name": "TSP HD3",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport3.png",
+      "referer": "https://tubtoeball.net/",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51379",
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8",
+        "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "true4",
+      "display_name": "TSP HD4",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport4.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51333"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "true5",
+      "display_name": "TTSP HD5",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-tsport5.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/99",
+        "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "true7",
+      "display_name": "TSP HD7",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-tsport7.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/100",
+        "http://103.114.203.129:8080/playidvip/12345/51332",
+        "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "truebein1",
+      "display_name": "BEIN 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
+      "referer": "https://tubtoeball.net/",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/102",
+        "http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8",
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "truebein2",
+      "display_name": "BEIN 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2th.png",
+      "referer": "https://warpdooball.net/",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/104",
+        "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
+        "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "truebein3",
+      "display_name": "BEIN 3",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein3th.png",
+      "referer": "https://tubtoeball.net/",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/105",
+        "http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
+        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "truegolf",
+      "display_name": "GOLF",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-golf.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/122",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "truepremierfootball3",
+      "display_name": "True Premier Football 3",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truepremierfootball3.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/50364",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "truepremierfootball4",
+      "display_name": "True Premier Football 4",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truepremierfootball4.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51498",
+        "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
+        "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "truespotv1",
+      "display_name": "SPOTV 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotv1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/51225",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115682&extension=m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115684&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776064&extension=m3u8"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "truespotv2",
+      "display_name": "SPOTV 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotv2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/40447",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115433&extension=m3u8",
+        "http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115433&extension=m3u8"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "truetennis",
+      "display_name": "TENNIS",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tennis.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/101",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8"
+      ]
+    },
+    {
       "id": 5,
       "name": "MonsterJam",
       "display_name": "Monster Jam",
@@ -97,7 +310,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:5A:9E:F9&stream=1556138&extension=ts"
+        "https://love.sayob28681.workers.dev:443/lx-origin/my-bein1_720/playlist.m3u8"
       ]
     },
     {
@@ -135,7 +348,7 @@
       "user_agent": "",
       "urls": [
         "http://41.205.93.154/ESPN/index.m3u8",
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61341&extension=m3u8"
+        "http://103.114.203.129:8080/playidvip/12345/89593"
       ]
     },
     {
@@ -161,7 +374,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=237604&extension=m3u8"
+        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97120&extension=m3u8"
       ]
     },
     {
@@ -173,7 +386,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=237605&extension=ts"
+        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=m3u8"
       ]
     },
     {
@@ -323,6 +536,49 @@
       ]
     },
     {
+      "id": 41,
+      "name": "monomax sport",
+      "display_name": "max sport",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/maxsport.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/37428",
+        "http://103.114.203.129:8080/playidvip/12345/29"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "monomax1",
+      "display_name": "monomax1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/37372",
+        "http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "monomax2",
+      "display_name": "monomax2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/51336",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
+        "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
       "id": 44,
       "name": "monomax 3",
       "display_name": "monomax 3",
@@ -404,36 +660,6 @@
       "user_agent": "",
       "urls": [
         "https://love.bebin98399.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 51,
-      "name": "monomax1",
-      "display_name": "monomax1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/37372",
-        "http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    {
-      "id": 52,
-      "name": "monomax2",
-      "display_name": "monomax2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/51336",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
-        "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8"
       ]
     },
     {
@@ -641,6 +867,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/53019",
         "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8"
       ]
     },
@@ -860,219 +1087,6 @@
       "user_agent": "",
       "urls": [
         "http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=2105830&extension=m3u8"
-      ]
-    },
-    {
-      "id": 101,
-      "name": "true1",
-      "display_name": "TSP HD1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
-      "referer": "https://tubtoeball.net/",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/18904",
-        "http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8",
-        "https://love.sayob28681.workers.dev:443/lx-origin/th-tsporthd1_720/playlist.m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115531&extension=m3u8"
-      ]
-    },
-    {
-      "id": 102,
-      "name": "true2",
-      "display_name": "true2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115533&extension=m3u8",
-        "http://54.37.19.157/tsp2/tracks-v1a1/mono.m3u8",
-        "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8"
-      ]
-    },
-    {
-      "id": 103,
-      "name": "true3",
-      "display_name": "TSP HD3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport3.png",
-      "referer": "https://tubtoeball.net/",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51379",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8",
-        "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    {
-      "id": 104,
-      "name": "true4",
-      "display_name": "TSP4",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport4.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51333"
-      ]
-    },
-    {
-      "id": 105,
-      "name": "true5",
-      "display_name": "TSP5",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-tsport5.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/99",
-        "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    {
-      "id": 106,
-      "name": "true7",
-      "display_name": "TSP7",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-tsport7.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/100",
-        "http://54.37.19.157/tsp7/tracks-v1a1/mono.m3u8",
-        "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8"
-      ]
-    },
-    {
-      "id": 112,
-      "name": "truebein1",
-      "display_name": "BEIN 1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
-      "referer": "https://tubtoeball.net/",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/102",
-        "http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 113,
-      "name": "truebein2",
-      "display_name": "BEIN 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2th.png",
-      "referer": "https://warpdooball.net/",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/104",
-        "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
-        "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 114,
-      "name": "truebein3",
-      "display_name": "BEIN 3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein3th.png",
-      "referer": "https://tubtoeball.net/",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/105",
-        "http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 123,
-      "name": "truegolf",
-      "display_name": "GOLF",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-golf.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/122",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8"
-      ]
-    },
-    {
-      "id": 127,
-      "name": "truepremierfootball3",
-      "display_name": "True Premier Football 3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truepremierfootball3.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/50364",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8"
-      ]
-    },
-    {
-      "id": 128,
-      "name": "truepremierfootball4",
-      "display_name": "True Premier Football 4",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truepremierfootball4.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51498",
-        "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
-        "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 130,
-      "name": "truespotv1",
-      "display_name": "SPOTV 1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotv1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51225",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115682&extension=m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115684&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776064&extension=m3u8"
-      ]
-    },
-    {
-      "id": 131,
-      "name": "truespotv2",
-      "display_name": "SPOTV 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotv2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/40447",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115433&extension=m3u8",
-        "http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115433&extension=m3u8"
-      ]
-    },
-    {
-      "id": 132,
-      "name": "truetennis",
-      "display_name": "TENNIS",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tennis.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/101",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8"
       ]
     },
     {
@@ -1310,6 +1324,30 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/12251"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "SPOTV HD 1",
+      "display_name": "SPOTV HD 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://139.99.61.175:25461/M9005/6825/149"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "SPOTV HD 2",
+      "display_name": "SPOTV HD 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://139.99.61.175:25461/M9005/6825/14229"
       ]
     }
   ]
