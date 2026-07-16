@@ -9,15 +9,12 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/41",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8",
-        "https://love.sayob28681.workers.dev:443/lx-origin/sd-asianfood_720/playlist.m3u8",
-        "http://6395online.com:8080/live/iptv591@gmail.com/456672/288.m3u8"
+        "http://103.114.203.129:8080/playidvip/12345/41"
       ]
     },
     {
       "id": 13,
-      "name": "aisDiscover",
+      "name": "Discover",
       "display_name": "DISCOVERY CHANNEL",
       "group": "Documentary",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sd-discovery.png",
@@ -25,20 +22,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/47",
-        "https://love.sayob28681.workers.dev:443/lx-origin/sd-discovery_720/playlist.m3u8",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "bbcearth",
-      "display_name": "BBC EARTH",
-      "group": "Documentary",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bbcearth.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1163702&extension=m3u8"
+        "http://54.37.19.157/Discovery/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -62,45 +46,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://liveera.live/demo_app/1606/playlist.m3u8",
-        "http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8"
-      ]
-    },
-    {
-      "id": 22,
-      "name": "discoveryturbo",
-      "display_name": "Discovery TURBO",
-      "group": "Documentary",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/discoveryturbo.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97094&extension=m3u8"
-      ]
-    },
-    {
-      "id": 23,
-      "name": "dmax",
-      "display_name": "DMAX",
-      "group": "Documentary",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/dmax.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=303709&extension=m3u8"
-      ]
-    },
-    {
-      "id": 67,
-      "name": "outdoor",
-      "display_name": "OUT DOOR",
-      "group": "Documentary",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/Outdoor.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776136&extension=m3u8",
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1776136&extension=m3u8"
+        "http://54.37.19.157/Discovery_Asia/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -119,20 +65,6 @@
       ]
     },
     {
-      "id": 108,
-      "name": "trueAXN",
-      "display_name": "AXN HD",
-      "group": "Documentary",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/axn.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "https://love.uh6wzyncw9.workers.dev/vx-origin/hd-axn_720/chunks.m3u8",
-        "https://liveera.live/demo_app/2650/playlist.m3u8",
-        "https://love.bebin98399.workers.dev/lx-origin/hd-axnbkp_720/chunks.m3u8"
-      ]
-    },
-    {
       "id": 109,
       "name": "trueBBCLIFESTYLE",
       "display_name": "trueBBCLIFESTYLE",
@@ -141,7 +73,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/58898"
+        "http://103.114.203.129:8080/playidvip/12345/58898",
+        "http://6395online.com:8080/live/Iptv6988/0905692638/140161.m3u8"
       ]
     },
     {
@@ -155,7 +88,7 @@
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/75219",
         "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115715&extension=m3u8&play_token=",
-        "https://love.bebin98399.workers.dev/vx-origin/hd-history_720/chunks.m3u8"
+        "http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776095.m3u8"
       ]
     },
     {
@@ -167,8 +100,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8",
-        "http://119.59.118.168/live/ch58/thailosonic2026/index.m3u8"
+        "https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
       ]
     },
     {
@@ -180,7 +112,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/61465",
         "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
       ]
     },
@@ -194,7 +126,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/47616",
-        "http://6395online.com:8080/live/iptv591@gmail.com/456672/285.m3u8"
+        "http://119.59.118.168/live/ch57/178147261323967/index.m3u8"
       ]
     },
     {
@@ -206,8 +138,8 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.bebin98399.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/82"
+        "http://103.114.203.129:8080/playidvip/12345/82",
+        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776247&extension=m3u8"
       ]
     },
     {
@@ -219,7 +151,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://6395online.com:8080/live/iptv591@gmail.com/456672/287.m3u8/"
+        "http://103.114.203.129:8080/playidvip/12345/3119"
       ]
     }
   ]
