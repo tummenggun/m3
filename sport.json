@@ -200,6 +200,30 @@
       ]
     },
     {
+      "id": 165,
+      "name": "SPOTV HD 1",
+      "display_name": "SPOTV HD 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://139.99.61.175:25461/M9005/6825/149"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "SPOTV HD 2",
+      "display_name": "SPOTV HD 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://139.99.61.175:25461/M9005/6825/14229"
+      ]
+    },
+    {
       "id": 132,
       "name": "truetennis",
       "display_name": "TENNIS",
@@ -1303,18 +1327,6 @@
       ]
     },
     {
-      "id": 163,
-      "name": "MONO Max sport",
-      "display_name": "MONOMAX Sport",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomaxsport.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/29"
-      ]
-    },
-    {
       "id": 164,
       "name": "Liverpool FC",
       "display_name": "Liverpool FC",
@@ -1324,30 +1336,6 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/12251"
-      ]
-    },
-    {
-      "id": 165,
-      "name": "SPOTV HD 1",
-      "display_name": "SPOTV HD 1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://139.99.61.175:25461/M9005/6825/149"
-      ]
-    },
-    {
-      "id": 166,
-      "name": "SPOTV HD 2",
-      "display_name": "SPOTV HD 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/spotvhd2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://139.99.61.175:25461/M9005/6825/14229"
       ]
     }
   ]
