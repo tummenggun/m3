@@ -78,39 +78,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/80",
-        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776096&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563002&extension=m3u8",
-        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=563002&extension=m3u8"
+        "https://config-m3u8.mquanggiu290.workers.dev/ASIANmore.m3u8?token=vip1234",
+        "http://103.114.203.129:8080/playidvip/12345/80"
       ]
     },
-    {
-      "id": 115,
-      "name": "trueccm",
-      "display_name": "TRUE CCM",
-      "group": "Movie",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trueccm.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/53789",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776023&extension=m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115635&extension=m3u8"
-      ]
-    },
-    {
-      "id": 116,
-      "name": "truedreamworks",
-      "display_name": "Dreamworks",
-      "group": "Movie",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-dreamworks.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/54",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
-      ]
-    },
+    
     {
       "id": 120,
       "name": "truefilm1",
@@ -237,6 +209,33 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/11091"
+      ]
+    }
+    {
+      "id": 115,
+      "name": "trueccm",
+      "display_name": "TRUE CCM",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trueccm.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/53789",
+        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776023&extension=m3u8",
+        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115635&extension=m3u8"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "truedreamworks",
+      "display_name": "Dreamworks",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-dreamworks.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/54",
+        "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8"
       ]
     }
   ]
