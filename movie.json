@@ -9,8 +9,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/hbof/tracks-v1a1/playlist.m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563001&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/61464",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776089&extension=m3u8",
         "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=563001&extension=m3u8"
       ]
@@ -24,8 +23,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/hboh/tracks-v1a1/playlist.m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115833&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/61461",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776088&extension=m3u8"
       ]
     },
@@ -38,7 +36,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115708&extension=m3u8",
+        "http://103.114.203.129:8080/playidvip/12345/61462",
         "http://54.37.19.157/hbos/tracks-v1a1/playlist.m3u8"
       ]
     },
@@ -69,18 +67,6 @@
         "http://103.114.203.129:8080/playidvip/12345/59047",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8",
         "http://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    {
-      "id": 54,
-      "name": "mtvclassic",
-      "display_name": "MTV Classic",
-      "group": "Movie",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/MTV_Classic.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97105&extension=m3u8"
       ]
     },
     {
