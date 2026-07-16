@@ -38,8 +38,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115708&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776092&extension=m3u8",
         "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115708&extension=m3u8",
         "http://54.37.19.157/hbos/tracks-v1a1/playlist.m3u8"
       ]
@@ -53,10 +51,10 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/52913",
         "http://103.114.203.129:8080/playidvip/12345/77",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776094&extension=m3u8",
-        "http://54.37.19.157/hbohd/tracks-v1a1/playlist.m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8"
+        "http://54.37.19.157/hbohd/tracks-v1a1/playlist.m3u8"
       ]
     },
     {
@@ -68,6 +66,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/59047",
         "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8",
         "http://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8"
       ]
@@ -94,7 +93,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/80",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115609&extension=m3u8",
+        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776096&extension=m3u8",
         "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=563002&extension=m3u8",
         "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=563002&extension=m3u8"
       ]
@@ -135,12 +134,9 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115415&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776049&extension=m3u8",
-        "http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115415.m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115415&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/67",
-        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115415&extension=m3u8"
+        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115415&extension=m3u8",
+        "http://54.37.19.157/True_Film_1/tracks-v1a1/mono.m3u8"
       ]
     },
     {
@@ -153,7 +149,7 @@
       "user_agent": "",
       "urls": [
         "http://103.114.203.129:8080/playidvip/12345/79",
-        "http://6395online.com:8080/live/iptv591@gmail.com/456672/143.m3u8",
+        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115415&extension=m3u8",
         "http://6395online.com:8080/live/Iptv6988/0905692638/143.m3u8",
         "http://119.59.118.168/live/ch55/178147261323967/index.m3u8"
       ]
@@ -167,7 +163,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776052&extension=m3u8",
         "http://103.114.203.129:8080/playidvip/12345/70"
       ]
     },
@@ -195,8 +190,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/138",
-        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115782&extension=m3u8"
+        "http://103.114.203.129:8080/playidvip/12345/138"
       ]
     },
     {
@@ -208,9 +202,7 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776050&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/64",
-        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115667&extension=m3u8"
+        "http://103.114.203.129:8080/playidvip/12345/64"
       ]
     },
     {
@@ -222,30 +214,44 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=563012&extension=m3u8",
-        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=563012&extension=m3u8&play_token=",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8"
+        "http://103.114.203.129:8080/playidvip/12345/74"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "ANX",
+      "display_name": "AXN",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/axn.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/52912"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "ROCK X STREAM",
+      "display_name": "ROCK X STREAM",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/rock.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/37750"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Rock Entertainment",
+      "display_name": "Rock Entertainment",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/rockent.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        "http://103.114.203.129:8080/playidvip/12345/11091"
       ]
     }
   ]
 }
-
-
-test referrer
-
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9xaI81ZyFLQYtS0cg/240x240" group-title="ช่องทีวีต่างประเทศ",BBC EARTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://canale-tv.net
-#EXTVLCOPT:http-referrer=https://canale-tv.net/
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-
-https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
-referer": "https://warpdooball.net/&userAgent=exo_player"
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
-https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
-
-JOOX 7.9.6
-
-https://drive.google.com/uc?id=1skthBK-Y6g-oj2_kAuNocVa6glEvmYlb
