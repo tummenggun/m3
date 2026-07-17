@@ -12,10 +12,19 @@
     {
       "username": "test",
       "password": "abcd",
-      "expire": "2027-07-01",
+      "expire": "2025-07-01",
       "active": true,
       "playlist": "basic",
       "fullname": "test test",
+      "tel": "123456789"
+    },
+    {
+      "username": "rwat",
+      "password": "rwat",
+      "expire": "2026-12-30",
+      "active": true,
+      "playlist": "basic",
+      "fullname": "rwat rwat",
       "tel": "123456789"
     }
   ]
