@@ -12,7 +12,7 @@
     {
       "username": "test",
       "password": "abcd",
-      "expire": "2026-07-19",
+      "expire": "2026-07-17",
       "active": true,
       "playlist": "basic",
       "fullname": "test test",
