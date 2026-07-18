@@ -6,9 +6,10 @@
       "display_name": "TSP HD1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
-      "referer": "https://tubtoeball.net/",
-      "user_agent": "",
+      "referer": "https://dookeela4.live",
+      "user_agent": "Plus-Official-Box",
       "urls": [
+        "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
         "http://103.114.203.129:8080/playidvip/12345/18904",
         "http://54.37.19.157/tsp1/tracks-v1a1/mono.m3u8",
         "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/chunks.m3u8",
@@ -90,11 +91,11 @@
       "display_name": "BEIN 1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
-      "referer": "https://tubtoeball.net/",
+      "referer": "https://warpdooball.net/",
       "user_agent": "",
       "urls": [
+        "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
         "http://103.114.203.129:8080/playidvip/12345/102",
-        "http://54.37.19.157/bein1/tracks-v1a1/mono.m3u8",
         "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8"
       ]
     },
