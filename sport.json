@@ -9,8 +9,16 @@
       "referer": "https://dookeela4.live",
       "user_agent": "Plus-Official-Box",
       "urls": [
-        "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
-        "http://103.114.203.129:8080/playidvip/12345/18904"
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/18904",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        }
       ]
     },
     {
@@ -22,7 +30,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -34,9 +46,21 @@
       "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/51379",
-        "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8"
+        {
+          "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51379",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -48,7 +72,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51333"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51333",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -60,8 +88,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/99",
-        "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/99",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -73,9 +109,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/100",
-        "http://103.114.203.129:8080/playidvip/12345/51332",
-        "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/100",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51332",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -87,9 +135,21 @@
       "referer": "https://warpdooball.net/",
       "user_agent": "",
       "urls": [
-        "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/102",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8"
+        {
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/102",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -101,9 +161,21 @@
       "referer": "https://warpdooball.net/",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/104",
-        "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
-        "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/104",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -115,10 +187,26 @@
       "referer": "https://tubtoeball.net/",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/105",
-        "http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
-        "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/105",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein3/chunks.m3u8",
+          "referer": "https://tubtoeball.net/",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -130,8 +218,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/122",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/122",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -143,8 +239,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/50364",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/50364",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -156,9 +260,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51498",
-        "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
-        "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51498",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -170,11 +286,31 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/51225",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115682&extension=m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115684&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776064&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51225",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115682&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115684&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776064&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -186,11 +322,31 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/40447",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
-        "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115433&extension=m3u8",
-        "http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115433&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/40447",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115433&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115433&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -202,7 +358,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://139.99.61.175:25461/M9005/6825/149"
+        {
+          "url": "http://139.99.61.175:25461/M9005/6825/149",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -214,7 +374,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://139.99.61.175:25461/M9005/6825/14229"
+        {
+          "url": "http://139.99.61.175:25461/M9005/6825/14229",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -226,9 +390,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/101",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/101",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -240,7 +416,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://c397b9fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTW9uc3RlckphbV9ITFM/playlist.m3u8"
+        {
+          "url": "https://c397b9fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTW9uc3RlckphbV9ITFM/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -252,7 +432,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=1776132&extension=m3u8"
+        {
+          "url": "http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=1776132&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -264,8 +448,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport1hd_720/playlist.m3u8",
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97147&extension=m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport1hd_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97147&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -277,8 +469,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport2hd_720/playlist.m3u8",
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97148&extension=m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport2hd_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97148&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -290,8 +490,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97150&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport3hd_720/playlist.m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97150&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport3hd_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -303,8 +511,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458651&extension=m3u8",
-        "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=77416&extension=m3u8"
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458651&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=77416&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -316,7 +532,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1595637&extension=m3u8"
+        {
+          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1595637&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -328,7 +548,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/my-bein1_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein1_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -340,7 +564,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/my-bein2_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein2_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -352,8 +580,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/vx-origin/us-cbssn_720/playlist.m3u8",
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61352&extension=m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-cbssn_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61352&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -365,8 +601,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://41.205.93.154/ESPN/index.m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/89593"
+        {
+          "url": "http://41.205.93.154/ESPN/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/89593",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -378,9 +622,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61342&extension=m3u8",
-        "http://41.223.30.230/ESPN2/index.m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/us-espn2_720/playlist.m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61342&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://41.223.30.230/ESPN2/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-espn2_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -392,7 +648,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97120&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97120&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -404,7 +664,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=m3u8"
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -416,8 +680,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077001&extension=m3u8",
-        "http://41.223.30.230/FOXSPORTS1/index.m3u8"
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077001&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -429,8 +701,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077000&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/us-foxsports2_720/playlist.m3u8"
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077000&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-foxsports2_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -442,7 +722,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903771&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903771&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -454,7 +738,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903772&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903772&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -466,7 +754,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903773&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903773&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -478,7 +770,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903767&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903767&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -490,7 +786,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -502,7 +802,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97037&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97037&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -514,7 +818,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97038&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97038&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -526,7 +834,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97039&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97039&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -538,7 +850,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97040&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97040&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -550,7 +866,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458786&extension=m3u8"
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458786&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/12251",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -562,8 +887,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/37428",
-        "http://103.114.203.129:8080/playidvip/12345/29"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/37428",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/29",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -575,10 +908,26 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/37372",
-        "http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/37372",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -590,10 +939,26 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
-        "http://103.114.203.129:8080/playidvip/12345/51336",
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
-        "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/51336",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -605,7 +970,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -617,7 +986,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -629,7 +1002,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/ais_sport5/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://54.37.19.157/ais_sport5/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -641,7 +1018,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/ais_sport6/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://54.37.19.157/ais_sport6/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -653,7 +1034,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/ais_sport7/tracks-v1a1/mono.m3u8"
+        {
+          "url": "http://54.37.19.157/ais_sport7/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -665,7 +1050,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.bebin98399.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8"
+        {
+          "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -677,7 +1066,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.bebin98399.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8"
+        {
+          "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -689,7 +1082,11 @@
       "referer": "Plus-Official-Box",
       "user_agent": "",
       "urls": [
-        "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2"
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
+          "referer": "Plus-Official-Box",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -701,7 +1098,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61444&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61444&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -713,7 +1114,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -725,7 +1130,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -737,7 +1146,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -749,7 +1162,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -761,7 +1178,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -773,7 +1194,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -785,7 +1210,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -797,8 +1226,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403",
-        "https://one.shchenyu8810.workers.dev/live/one/index.m3u8"
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://one.shchenyu8810.workers.dev/live/one/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -810,7 +1247,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8"
+        {
+          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -822,7 +1263,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8"
+        {
+          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -834,7 +1279,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8"
+        {
+          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -846,7 +1295,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+        {
+          "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -858,8 +1311,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://liveera.live/demo_app/11952/playlist.m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-action_720/playlist.m3u8"
+        {
+          "url": "https://liveera.live/demo_app/11952/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-action_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -871,9 +1332,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458669&extension=m3u8",
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394557&extension=m3u8",
-        "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-epl_720/playlist.m3u8"
+        {
+          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458669&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394557&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-epl_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -885,8 +1358,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/53019",
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/53019",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -898,7 +1379,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394555&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394555&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -910,7 +1395,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312245&extension=m3u8"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312245&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -922,7 +1411,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394553&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394553&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -934,8 +1427,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458657&extension=m3u8",
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394551&extension=m3u8"
+        {
+          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458657&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394551&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -947,7 +1448,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8"
+        {
+          "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -959,7 +1464,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312247&extension=m3u8"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312247&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -971,8 +1480,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394549&extension=m3u8",
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458813&extension=m3u8"
+        {
+          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394549&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458813&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -984,7 +1501,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61369&extension=m3u8"
+        {
+          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61369&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -996,7 +1517,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://viafnatt.tv:2095/play/live.php?mac=10:27:BE:40:09:85&stream=2105824&extension=m3u8"
+        {
+          "url": "http://viafnatt.tv:2095/play/live.php?mac=10:27:BE:40:09:85&stream=2105824&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1008,7 +1533,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138591&extension=m3u8"
+        {
+          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138591&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1020,7 +1549,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425667&extension=m3u8"
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425667&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1032,7 +1565,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138727&extension=m3u8"
+        {
+          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138727&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1044,7 +1581,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239076&extension=m3u8"
+        {
+          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=239076&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1056,7 +1597,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=239082&extension=m3u8"
+        {
+          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=239082&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1068,7 +1613,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://185.243.7.195:80/play/live.php?mac=00:1B:79:F9:32:77&stream=554968&extension=m3u8"
+        {
+          "url": "http://185.243.7.195:80/play/live.php?mac=00:1B:79:F9:32:77&stream=554968&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1080,7 +1629,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138586&extension=m3u8"
+        {
+          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138586&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1092,7 +1645,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=138737&extension=m3u8"
+        {
+          "url": "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=138737&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1104,7 +1661,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=2105830&extension=m3u8"
+        {
+          "url": "http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=2105830&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1116,9 +1677,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/64499",
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077049&extension=m3u8",
-        "http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:51:17:A1&stream=902070&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/64499",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077049&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.smootvone.vip:80/play/live.php?mac=00:1B:79:51:17:A1&stream=902070&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1130,9 +1703,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/64500",
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077048&extension=m3u8",
-        "http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/64500",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077048&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1144,9 +1729,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/64501",
-        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:1C:70:25&stream=902072&extension=m3u8",
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077047&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/64501",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:1C:70:25&stream=902072&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077047&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1158,9 +1755,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/64502",
-        "http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F9:74:98&stream=902073&extension=m3u8",
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077046&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/64502",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F9:74:98&stream=902073&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077046&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1172,8 +1781,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://91.208.115.26:80/play/live.php?mac=00:1B:79:53:02:77&stream=902074&extension=m3u8",
-        "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077045&extension=m3u8"
+        {
+          "url": "http://91.208.115.26:80/play/live.php?mac=00:1B:79:53:02:77&stream=902074&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077045&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1185,7 +1802,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776194&extension=m3u8"
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776194&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1197,7 +1818,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/my-bein3_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein3_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1209,7 +1834,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985164&extension=m3u8"
+        {
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985164&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1221,7 +1850,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=798833&extension=m3u8"
+        {
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=798833&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1233,7 +1866,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985166&extension=m3u8"
+        {
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985166&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1245,7 +1882,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/au-fox501_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox501_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1257,7 +1898,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944690&extension=m3u8"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944690&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1269,7 +1914,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/au-fox503_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox503_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1281,7 +1930,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.sayob28681.workers.dev:443/lx-origin/au-fox504_720/playlist.m3u8"
+        {
+          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox504_720/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1293,7 +1946,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944684&extension=m3u8"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944684&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1305,7 +1962,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944693&extension=m3u8"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944693&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -1317,19 +1978,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944694&extension=m3u8"
-      ]
-    },
-    {
-      "id": 164,
-      "name": "Liverpool FC",
-      "display_name": "Liverpool FC",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/liverpool.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/12251"
+        {
+          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944694&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     }
   ]
