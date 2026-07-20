@@ -9,7 +9,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/15652"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/15652",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -21,7 +25,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.bebin98399.workers.dev/lx-origin/sd-nickjr_480/chunks.m3u8"
+        {
+          "url": "https://love.bebin98399.workers.dev/lx-origin/sd-nickjr_480/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -33,7 +41,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/57"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/57",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -45,7 +57,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61463"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/61463",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -57,7 +73,27 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/10581"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/10581",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "boom",
+      "display_name": "boom",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/boom.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=116073&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     }
   ]
