@@ -6,8 +6,8 @@
       "display_name": "TSP HD1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
-      "referer": "https://dookeela4.live",
-      "user_agent": "Plus-Official-Box",
+      "referer": "",
+      "user_agent": "",
       "urls": [
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
@@ -16,8 +16,8 @@
         },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/18904",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -34,6 +34,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/51",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
         }
       ]
     },
@@ -43,7 +48,7 @@
       "display_name": "TSP HD3",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport3.png",
-      "referer": "https://tubtoeball.net/",
+      "referer": "",
       "user_agent": "",
       "urls": [
         {
@@ -52,13 +57,18 @@
           "user_agent": ""
         },
         {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "http://103.114.203.129:8080/playidvip/12345/51379",
-          "referer": "https://tubtoeball.net/",
+          "referer": "",
           "user_agent": ""
         },
         {
           "url": "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8",
-          "referer": "https://tubtoeball.net/",
+          "referer": "",
           "user_agent": ""
         }
       ]
@@ -94,6 +104,11 @@
           "user_agent": ""
         },
         {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8",
           "referer": "",
           "user_agent": ""
@@ -120,6 +135,11 @@
           "user_agent": ""
         },
         {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8",
           "referer": "",
           "user_agent": ""
@@ -132,9 +152,19 @@
       "display_name": "BEIN 1",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
-      "referer": "https://warpdooball.net/",
+      "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
           "referer": "https://warpdooball.net/",
@@ -142,12 +172,12 @@
         },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/102",
-          "referer": "https://warpdooball.net/",
+          "referer": "",
           "user_agent": ""
         },
         {
           "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8",
-          "referer": "https://warpdooball.net/",
+          "referer": "https://tubtoeball.net/",
           "user_agent": ""
         }
       ]
@@ -158,13 +188,18 @@
       "display_name": "BEIN 2",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2th.png",
-      "referer": "https://warpdooball.net/",
+      "referer": "",
       "user_agent": "",
       "urls": [
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/104",
-          "referer": "https://warpdooball.net/",
+          "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
         },
         {
           "url": "http://54.37.19.157/bein2/tracks-v1a1/mono.m3u8",
@@ -184,22 +219,32 @@
       "display_name": "BEIN 3",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein3th.png",
-      "referer": "https://tubtoeball.net/",
+      "referer": "",
       "user_agent": "",
       "urls": [
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/105",
-          "referer": "https://tubtoeball.net/",
+          "referer": "",
           "user_agent": ""
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "http://54.37.19.157/bein3/tracks-v1a1/mono.m3u8",
-          "referer": "https://tubtoeball.net/",
+          "referer": "",
           "user_agent": ""
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776212&extension=m3u8",
-          "referer": "https://tubtoeball.net/",
+          "referer": "",
           "user_agent": ""
         },
         {
@@ -222,6 +267,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/122",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=golf2",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8",
@@ -266,6 +316,11 @@
           "user_agent": ""
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
           "url": "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
           "referer": "",
           "user_agent": ""
@@ -290,6 +345,16 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/51225",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=spotv1",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
@@ -326,6 +391,16 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/40447",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=spotv2",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
@@ -394,6 +469,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/101",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
@@ -909,6 +989,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -939,6 +1024,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
         {
           "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
           "referer": "",
