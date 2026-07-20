@@ -10,6 +10,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/afn/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "url": "http://103.114.203.129:8080/playidvip/12345/41",
           "referer": "",
           "user_agent": ""
