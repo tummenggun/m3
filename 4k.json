@@ -5,7 +5,7 @@
       "name": "V Sport",
       "display_name": "V Sport 4K",
       "group": "4k",
-      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/vsporthd.png",
       "referer": "",
       "user_agent": "",
       "urls": [
@@ -21,7 +21,7 @@
       "name": "beIN",
       "display_name": "beIN 4K 01",
       "group": "4k",
-      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/beinhd.png",
       "referer": "",
       "user_agent": "",
       "urls": [
@@ -37,7 +37,7 @@
       "name": "TNT Sport",
       "display_name": "TNT Sport 4K 01",
       "group": "4k",
-      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tnt4k.png",
       "referer": "",
       "user_agent": "",
       "urls": [
@@ -53,7 +53,7 @@
       "name": "Sky Main Event",
       "display_name": "Main Event 4K 01",
       "group": "4k",
-      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/skymainevent4k.png",
       "referer": "",
       "user_agent": "",
       "urls": [
@@ -69,7 +69,7 @@
       "name": "Sky Sport F1",
       "display_name": "Sky Sport F1 4K",
       "group": "4k",
-      "logo": "https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/4K.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/skyf14k.png",
       "referer": "",
       "user_agent": "",
       "urls": [
