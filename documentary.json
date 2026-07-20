@@ -9,7 +9,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/41"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/41",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -21,8 +25,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/47",
-        "http://54.37.19.157/Discovery/tracks-v1a1/playlist.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/47",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/Discovery/tracks-v1a1/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -34,7 +46,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61492"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/61492",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -46,7 +62,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://54.37.19.157/Discovery_Asia/tracks-v1a1/playlist.m3u8"
+        {
+          "url": "http://54.37.19.157/Discovery_Asia/tracks-v1a1/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -58,10 +78,26 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/69",
-        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115688&extension=m3u8&play_token=",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-tlc_720/chunks.m3u8",
-        "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115688&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/69",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115688&extension=m3u8&play_token=",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-tlc_720/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115688&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -73,8 +109,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/58898",
-        "http://6395online.com:8080/live/Iptv6988/0905692638/140161.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/58898",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://6395online.com:8080/live/Iptv6988/0905692638/140161.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -86,9 +130,21 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/75219",
-        "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115715&extension=m3u8&play_token=",
-        "http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776095.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/75219",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115715&extension=m3u8&play_token=",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776095.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -100,7 +156,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8"
+        {
+          "url": "https://love.pifipa2974.workers.dev/lx-origin/sd-explife_720/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -112,8 +172,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/61465",
-        "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/61465",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -125,8 +193,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/47616",
-        "http://119.59.118.168/live/ch57/178147261323967/index.m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/47616",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://119.59.118.168/live/ch57/178147261323967/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -138,8 +214,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/82",
-        "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776247&extension=m3u8"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/82",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776247&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     },
     {
@@ -151,7 +235,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        "http://103.114.203.129:8080/playidvip/12345/3119"
+        {
+          "url": "http://103.114.203.129:8080/playidvip/12345/3119",
+          "referer": "",
+          "user_agent": ""
+        }
       ]
     }
   ]
