@@ -79,6 +79,22 @@
           "user_agent": ""
         }
       ]
+    },
+    {
+      "id": 7,
+      "name": "XD",
+      "display_name": "XD",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/disney_xd.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
     }
   ]
 }
