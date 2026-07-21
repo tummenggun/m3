@@ -36,8 +36,8 @@
           "user_agent": ""
         },
         {
-          "url": "http://54.37.19.157/Discovery/tracks-v1a1/playlist.m3u8",
-          "referer": "",
+          "url": "https://live.iptv-th.workers.dev/live/47.m3u8",
+          "referer": "https://madoball.com/",
           "user_agent": ""
         }
       ]
