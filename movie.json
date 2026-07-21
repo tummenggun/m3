@@ -168,6 +168,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/80",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://live.iptv-th.workers.dev/live/80.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -212,9 +217,9 @@
           "user_agent": ""
         },
         {
-          "url": "http://54.37.19.157/True_Film_1/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://live.iptv-th.workers.dev/live/67.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -236,21 +241,6 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115415&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://6395online.com:8080/live/Iptv6988/0905692638/143.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://119.59.118.168/live/ch55/178147261323967/index.m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -267,6 +257,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/70",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://live.iptv-th.workers.dev/live/70.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -330,6 +325,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/64",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://live.iptv-th.workers.dev/live/64.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -346,6 +346,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/74",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://live.iptv-th.workers.dev/live/74.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
