@@ -18,6 +18,11 @@
           "url": "http://103.114.203.129:8080/playidvip/12345/18904",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -39,6 +44,11 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
+        },
+        {
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -67,9 +77,9 @@
           "user_agent": ""
         },
         {
-          "url": "http://54.37.19.157/tsp3/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -140,9 +150,9 @@
           "user_agent": "Plus-Official-Box"
         },
         {
-          "url": "http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -357,17 +367,7 @@
           "user_agent": "Plus-Official-Box"
         },
         {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776065&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115682&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115684&extension=m3u8",
+          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941564",
           "referer": "",
           "user_agent": ""
         },
@@ -408,17 +408,7 @@
           "user_agent": ""
         },
         {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776068&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115433&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=115433&extension=m3u8",
+          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941563",
           "referer": "",
           "user_agent": ""
         }
@@ -529,12 +519,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport1hd_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97147&extension=m3u8",
+          "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154",
           "referer": "",
           "user_agent": ""
         }
@@ -550,12 +535,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport2hd_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97148&extension=m3u8",
+          "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1153",
           "referer": "",
           "user_agent": ""
         }
@@ -571,12 +551,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97150&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/uk-btsport3hd_720/playlist.m3u8",
+          "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152",
           "referer": "",
           "user_agent": ""
         }
@@ -806,6 +781,11 @@
           "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903771&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -822,6 +802,11 @@
           "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903772&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -834,6 +819,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903773&extension=m3u8",
           "referer": "",
@@ -1000,16 +990,6 @@
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/37372",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://54.37.19.157/monomax1/tracks-v1a1/mono.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1448,6 +1428,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/53019",
           "referer": "",
@@ -1900,6 +1885,38 @@
       ]
     },
     {
+      "id": 142,
+      "name": "bein-sport",
+      "display_name": "BEIN 1 EN",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1EN.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://185.160.192.64:80/mangin15/85784/14170",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "bein-sport",
+      "display_name": "BEIN 2 EN",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2EN.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://185.160.192.64:80/mangin15/85784/14169",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
       "id": 143,
       "name": "bein-sport",
       "display_name": "BEIN 3 EN",
@@ -1909,7 +1926,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein3_720/playlist.m3u8",
+          "url": "http://185.160.192.64:80/mangin15/85784/14163",
           "referer": "",
           "user_agent": ""
         }
