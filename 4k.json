@@ -28,7 +28,7 @@
         {
           "url": "http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:5A:9E:F9&stream=1556138&extension=ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "IINA"
         }
       ]
     },
@@ -44,7 +44,7 @@
         {
           "url": "http://weaseltv.live:80/play/live.php?mac=00:1B:79:FF:09:C5&stream=1595637&extension=ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "IINA"
         }
       ]
     },
@@ -60,7 +60,7 @@
         {
           "url": "http://weaseltv.live:80/play/live.php?mac=00:1B:79:FF:09:C5&stream=1641636&extension=ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "IINA"
         }
       ]
     },
@@ -71,17 +71,17 @@
       "group": "4k",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/skyf14k.png",
       "referer": "",
-      "user_agent": "",
+      "user_agent": "IINA",
       "urls": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=1312007&extension=ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "IINA"
         },
         {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312007&extension=ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "IINA"
         }
       ]
     }
