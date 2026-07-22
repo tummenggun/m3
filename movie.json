@@ -77,7 +77,7 @@
           "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
-          "url": "http://54.37.19.157/hbos/tracks-v1a1/playlist.m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115729&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -99,13 +99,13 @@
         },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/77",
-          "referer": "https://atmflix.live/",
-          "user_agent": "ttp-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "referer": "",
+          "user_agent": ""
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "referer": "https://atmflix.live/",
+          "user_agent": "ttp-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776094&extension=m3u8",
@@ -113,7 +113,7 @@
           "user_agent": ""
         },
         {
-          "url": "http://54.37.19.157/hbohd/tracks-v1a1/playlist.m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115714&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -161,6 +161,11 @@
       "urls": [
         {
           "url": "https://config-m3u8.mquanggiu290.workers.dev/ASIANmore.m3u8?token=vip1234",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=813028&extension=m3u8",
           "referer": "",
           "user_agent": ""
         },
@@ -259,6 +264,11 @@
           "user_agent": ""
         },
         {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115665&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "https://live.iptv-th.workers.dev/live/70.m3u8",
           "referer": "https://madoball.com/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
@@ -290,7 +300,7 @@
           "user_agent": ""
         },
         {
-          "url": "http://54.37.19.157/moviehits/tracks-v1a1/playlist.m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115720&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -323,6 +333,11 @@
       "urls": [
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/64",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115667&extension=m3u8",
           "referer": "",
           "user_agent": ""
         },
