@@ -47,43 +47,7 @@
           "user_agent": "IINA"
         }
       ]
-    },
-    {
-      "id": 4,
-      "name": "Sky Main Event",
-      "display_name": "Main Event 4K 01",
-      "group": "4k",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/skymainevent4k.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://weaseltv.live:80/play/live.php?mac=00:1B:79:FF:09:C5&stream=1641636&extension=ts",
-          "referer": "",
-          "user_agent": "IINA"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Sky Sport F1",
-      "display_name": "Sky Sport F1 4K",
-      "group": "4k",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/skyf14k.png",
-      "referer": "",
-      "user_agent": "IINA",
-      "urls": [
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=1312007&extension=ts",
-          "referer": "",
-          "user_agent": "IINA"
-        },
-        {
-          "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312007&extension=ts",
-          "referer": "",
-          "user_agent": "IINA"
-        }
-      ]
     }
+    
   ]
 }
