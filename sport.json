@@ -62,6 +62,11 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/148/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -903,7 +908,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/37428",
+          "url": "https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -920,6 +925,11 @@
       "urls": [
         {
           "url": "http://feoalacarta23.top:80/play/live.php?mac=00:1B:79:38:29:4C&stream=1660493&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts",
           "referer": "",
           "user_agent": ""
         },
@@ -1091,6 +1101,11 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
           "referer": "Plus-Official-Box",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/162/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
