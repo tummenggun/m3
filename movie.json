@@ -38,12 +38,17 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776088&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/71/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -59,12 +64,17 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115729&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/72/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -91,6 +101,16 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115714&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/73/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/77.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -140,6 +160,11 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/103/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://live.iptv-th.workers.dev/live/80.m3u8",
           "referer": "https://madoball.com/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
@@ -158,7 +183,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/3bbasian/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
@@ -174,12 +199,17 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115415&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/101/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         },
         {
           "url": "https://live.iptv-th.workers.dev/live/67.m3u8",
@@ -197,15 +227,20 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-       {
+        {
           "url": "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115415&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/79.m3u8",
           "referer": "",
           "user_agent": ""
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
@@ -227,6 +262,11 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115498&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/106/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         },
         {
           "url": "https://live.iptv-th.workers.dev/live/70.m3u8",
@@ -251,6 +291,11 @@
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776096&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/66.m3u8",
           "referer": "",
           "user_agent": ""
         },
@@ -292,6 +337,16 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/64.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://live.iptv-th.workers.dev/live/64.m3u8",
           "referer": "https://madoball.com/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
@@ -311,6 +366,11 @@
           "url": "https://live.iptv-th.workers.dev/live/74.m3u8",
           "referer": "https://madoball.com/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/120/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -327,6 +387,16 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115620&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/68/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/75.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -342,7 +412,12 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/rock-action/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/33/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -358,7 +433,17 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/32/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/81.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -380,6 +465,11 @@
           "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115635&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
