@@ -17,7 +17,7 @@
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
           "referer": "https://warpdooball.net/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -34,7 +34,8 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115790&extension=m3u8",
           "referer": "",
           "user_agent": ""
-        }{
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -42,7 +43,7 @@
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8",
           "referer": "https://warpdooball.net/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -68,7 +69,7 @@
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
           "referer": "https://warpdooball.net/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -126,7 +127,7 @@
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8",
           "referer": "https://warpdooball.net/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         }
       ]
     },
@@ -152,7 +153,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein1_mono",
@@ -209,7 +210,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein3_mono",
