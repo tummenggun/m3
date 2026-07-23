@@ -133,9 +133,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/34",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://live-us1.thaimomo.com/live-as/chamarin-3/chunklist_w818577048.m3u8",
+          "referer": "https://famelack.com/tv/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
