@@ -15,6 +15,11 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/38/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/afn/playlist.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
@@ -34,6 +39,11 @@
           "url": "https://live.iptv-th.workers.dev/live/47.m3u8",
           "referer": "https://madoball.com/",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/69/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -66,6 +76,11 @@
           "url": "http://54.37.19.157/Discovery_Asia/tracks-v1a1/playlist.m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/57/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -153,9 +168,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://love.uh6wzyncw9.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8",
+          "url": "https://hls.iptv-th.workers.dev/live/111/playlist.m3u8",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -169,9 +184,14 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://119.59.118.168/live/ch57/178147261323967/index.m3u8",
+          "url": "https://hls.iptv-th.workers.dev/live/118/playlist.m3u8",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "http://45.144.165.187:8080/live/playidlive/12345/49.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -188,6 +208,11 @@
           "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776247&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/121/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
