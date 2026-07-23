@@ -61,6 +61,11 @@
           "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1705641632_b500000.m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/132/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -101,12 +106,12 @@
       "name": "ONE HD",
       "display_name": "ONE HD",
       "group": "Digital TV",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/one.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/one31.png",
       "referer": "",
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/31",
+          "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -138,7 +143,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/36",
+          "url": "https://hls.iptv-th.workers.dev/live/139/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -170,7 +175,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/25",
+          "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -186,7 +191,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/24",
+          "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u",
           "referer": "",
           "user_agent": ""
         }
@@ -202,7 +207,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/18892",
+          "url": "https://hls.iptv-th.workers.dev/live/142/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -239,7 +244,7 @@
           "user_agent": ""
         },
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/49844",
+          "url": "https://hls.iptv-th.workers.dev/live/143/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
