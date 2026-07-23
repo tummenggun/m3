@@ -10,6 +10,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8",
+          "referer": "https://ch3plus.com/",
+          "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+        },
+        {
           "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
           "referer": "",
           "user_agent": ""
@@ -42,7 +47,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/35",
+          "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -58,15 +63,16 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://45.144.166.242:1935/MCOT/t3_mcot/chunklist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1705641632_b500000.m3u8",
           "referer": "",
           "user_agent": ""
-        },
-        {
-          "url": "https://hls.iptv-th.workers.dev/live/132/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
         }
+        
       ]
     },
     {
@@ -159,9 +165,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w275341469.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/mono29plus/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
@@ -223,9 +229,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/22",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/nationtv/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
@@ -260,7 +266,12 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/27",
+          "url": "http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -268,19 +279,36 @@
     },
     {
       "id": 170,
-      "name": "TPTV",
-      "display_name": "TPTV",
+      "name": "thairath",
+      "display_name": "thairath",
       "group": "Digital TV",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tptv.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/thairath.png",
       "referer": "",
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/10",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+          "referer": "https://www.thairath.co.th/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "workpoint",
+      "display_name": "workpoint",
+      "group": "Digital TV",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/workpoint.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/workpointtv/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
         }
       ]
     }
+    
   ]
 }
