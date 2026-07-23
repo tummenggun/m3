@@ -36,6 +36,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115790&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "http://103.114.203.129:8080/playidvip/12345/51",
           "referer": "",
           "user_agent": ""
@@ -140,6 +145,11 @@
           "user_agent": ""
         },
         {
+          "url": "http://103.114.203.129:8080/playidvip/12345/100",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "http://103.114.203.129:8080/playidvip/12345/51332",
           "referer": "",
           "user_agent": ""
@@ -165,6 +175,16 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115807&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115733&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8",
           "referer": "https://atmflix.live/",
@@ -352,6 +372,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115682&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "http://103.114.203.129:8080/playidvip/12345/51225",
           "referer": "",
           "user_agent": ""
@@ -387,6 +412,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115686&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/40447",
           "referer": "",
@@ -455,6 +485,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115805&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/101",
           "referer": "",
@@ -979,19 +1014,19 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://feoalacarta23.top:80/play/live.php?mac=00:1B:79:38:29:4C&stream=1660493&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115757&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776145&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -1429,6 +1464,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=127990&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts",
           "referer": "",
           "user_agent": ""
@@ -1527,6 +1567,11 @@
           "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=1434780&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -1609,7 +1654,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138591&extension=m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115618&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1625,7 +1670,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=425667&extension=m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115703&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1641,7 +1686,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138727&extension=m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115617&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1705,7 +1750,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=138586&extension=m3u8",
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115615&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
