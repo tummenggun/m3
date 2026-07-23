@@ -15,11 +15,6 @@
           "user_agent": "Plus-Official-Box"
         },
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/18904",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
           "referer": "https://warpdooball.net/",
           "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -39,13 +34,7 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115790&extension=m3u8",
           "referer": "",
           "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
+        }{
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -75,11 +64,6 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51379",
-          "referer": "",
-          "user_agent": ""
         },
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
@@ -114,11 +98,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/99",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -139,21 +118,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/100",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/100",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51332",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7",
           "referer": "https://dookeela4.live",
@@ -201,11 +165,6 @@
           "user_agent": ""
         },
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/102",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/bein1/chunks.m3u8",
           "referer": "https://tubtoeball.net/",
           "user_agent": ""
@@ -221,11 +180,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/104",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono",
           "referer": "https://dookeela4.live",
@@ -252,11 +206,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/105",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8",
           "referer": "https://atmflix.live/",
@@ -294,11 +243,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/122",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=golf2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -320,11 +264,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/50364",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -340,11 +279,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51498",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8",
           "referer": "https://atmflix.live/",
@@ -373,11 +307,6 @@
       "urls": [
         {
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115682&extension=ts",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51225",
           "referer": "",
           "user_agent": ""
         },
@@ -414,11 +343,6 @@
       "urls": [
         {
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115686&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/40447",
           "referer": "",
           "user_agent": ""
         },
@@ -487,11 +411,6 @@
       "urls": [
         {
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115805&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/101",
           "referer": "",
           "user_agent": ""
         },
@@ -693,11 +612,6 @@
       "urls": [
         {
           "url": "http://41.205.93.154/ESPN/index.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/89593",
           "referer": "",
           "user_agent": ""
         }
@@ -975,11 +889,6 @@
           "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458786&extension=m3u8",
           "referer": "",
           "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/12251",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -994,11 +903,6 @@
       "urls": [
         {
           "url": "http://103.114.203.129:8080/playidvip/12345/37428",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/29",
           "referer": "",
           "user_agent": ""
         }
@@ -1046,11 +950,6 @@
         },
         {
           "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51336",
           "referer": "",
           "user_agent": ""
         },
@@ -1474,11 +1373,6 @@
           "user_agent": ""
         },
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/53019",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -1798,11 +1692,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/64499",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077049&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -1823,11 +1712,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/64500",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077048&extension=m3u8",
           "referer": "",
@@ -1850,11 +1734,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/64501",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:1C:70:25&stream=902072&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -1875,11 +1754,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://103.114.203.129:8080/playidvip/12345/64502",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F9:74:98&stream=902073&extension=m3u8",
           "referer": "",
