@@ -15,6 +15,11 @@
           "user_agent": "Plus-Official-Box"
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/79/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
           "referer": "https://warpdooball.net/",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -34,6 +39,11 @@
           "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115790&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/147/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true""
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
@@ -57,14 +67,14 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "https://hls.iptv-th.workers.dev/live/148/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp3/chunks.m3u8",
           "referer": "https://tubtoeball.net/",
           "user_agent": ""
-        },
-        {
-          "url": "https://hls.iptv-th.workers.dev/live/148/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd3",
@@ -124,6 +134,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true""
+        },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7",
           "referer": "https://dookeela4.live",
@@ -187,6 +202,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "https://hls.iptv-th.workers.dev/live/52/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true""
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -212,6 +232,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/53/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3/playlist.m3u8",
           "referer": "https://atmflix.live/",
@@ -288,7 +313,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
@@ -317,9 +342,14 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/95/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=spotv1",
@@ -353,9 +383,14 @@
           "user_agent": ""
         },
         {
+          "url": "https://hls.iptv-th.workers.dev/live/96/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=spotv2",
@@ -423,7 +458,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
@@ -432,6 +467,100 @@
         },
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "monomax sport",
+      "display_name": "max sport",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/maxsport.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "monomax1",
+      "display_name": "monomax1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://feoalacarta23.top:80/play/live.php?mac=00:1B:79:38:29:4C&stream=1660493&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115757&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "monomax2",
+      "display_name": "monomax2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono",
+          "referer": "https://dookeela4.live",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
+          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "monomax 3",
+      "display_name": "monomax 3",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax3.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -659,7 +788,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97120&extension=m3u8",
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1127&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -675,7 +804,12 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1637557&extension=m3u8",
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897448&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1126&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -893,196 +1027,6 @@
       "urls": [
         {
           "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458786&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "name": "monomax sport",
-      "display_name": "max sport",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/maxsport.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "name": "monomax1",
-      "display_name": "monomax1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://feoalacarta23.top:80/play/live.php?mac=00:1B:79:38:29:4C&stream=1660493&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115757&extension=ts",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "name": "monomax2",
-      "display_name": "monomax2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport2_mono",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "monomax 3",
-      "display_name": "monomax 3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax3.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "name": "monomax 4",
-      "display_name": "monomax 4",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax4.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "name": "monomax 5",
-      "display_name": "MONO MAX 5",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax5.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://54.37.19.157/ais_sport5/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "name": "monomax 6",
-      "display_name": "monomax 6",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax6.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://54.37.19.157/ais_sport6/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "name": "monomax 7",
-      "display_name": "monomax 7",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax7.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://54.37.19.157/ais_sport7/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "name": "monomax 8",
-      "display_name": "monomax 8",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax8.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "name": "monomax 9",
-      "display_name": "monomax 9",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/monomax9.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.bebin98399.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8",
           "referer": "",
           "user_agent": ""
         }
