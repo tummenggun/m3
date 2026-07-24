@@ -137,7 +137,7 @@
         {
           "url": "https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
           "referer": "exo_player",
-          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true""
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7",
@@ -204,7 +204,7 @@
         {
           "url": "https://hls.iptv-th.workers.dev/live/52/playlist.m3u8",
           "referer": "exo_player",
-          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true""
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein2_mono",
