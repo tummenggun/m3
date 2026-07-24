@@ -605,7 +605,7 @@
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tnt1.png",
       "referer": "",
-      "user_agent": "",
+      "user_agent": "NontonTV/35 (Android 9)",
       "urls": [
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154",
@@ -626,7 +626,7 @@
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1153",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "NontonTV/35 (Android 9)"
         }
       ]
     },
@@ -642,7 +642,7 @@
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "NontonTV/35 (Android 9)"
         }
       ]
     },
@@ -947,70 +947,6 @@
       "urls": [
         {
           "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "name": "itv1",
-      "display_name": "ITV 1",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/itv1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97037&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "name": "itv2",
-      "display_name": "ITV 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/itv2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97038&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "name": "itv3",
-      "display_name": "ITV 3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/itv3.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97039&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "name": "itv4",
-      "display_name": "ITV 4",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/itv4.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/97040&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1673,14 +1609,14 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077048&extension=m3u8",
+          "url": "http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=m3u8",
           "referer": "",
           "user_agent": ""
         },
         {
-          "url": "http://line.ciao-ott.net:80/play/live.php?mac=00:1B:79:25:19:1F&stream=902071&extension=m3u8",
+          "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts",
           "referer": "",
-          "user_agent": ""
+          "user_agent": "NontonTV/35 (Android 9)"
         }
       ]
     },
