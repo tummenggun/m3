@@ -534,7 +534,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://xsvhbvg8xd.ja-me-kai-kai-rak-kon-na-ta-yang-chan.sbs/xstream/monomax-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI2IDM6MTQ6MDEgQU0maGFzaF92YWx1ZT04WTRhUytDT01CaTRwWGY2OXJ0TVh3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDI2IDM6MTQ6MDEgQU0maGFzaF92YWx1ZT04WTRhUytDT01CaTRwWGY2OXJ0TVh3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
         },
