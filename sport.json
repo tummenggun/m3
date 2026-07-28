@@ -10,6 +10,12 @@
       "user_agent": "",
       "urls": [
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -36,9 +42,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115790&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tsp2",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/147/playlist.m3u8",
@@ -66,6 +73,12 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tsp3",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
         {
           "url": "https://hls.iptv-th.workers.dev/live/148/playlist.m3u8",
           "referer": "exo_player",
@@ -274,14 +287,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=golf2",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776081&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/golfchannel",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -796,6 +805,12 @@
           "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1127&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/eurosport",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
