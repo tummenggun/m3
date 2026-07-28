@@ -10,9 +10,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115611&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/afn",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/38/playlist.m3u8",
@@ -22,7 +23,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/afn/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         }
       ]
     },
@@ -36,14 +37,20 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://live.iptv-th.workers.dev/live/47.m3u8",
-          "referer": "https://madoball.com/",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/discovery",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/69/playlist.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0"
+        },
+        {
+          "url": "https://live.iptv-th.workers.dev/live/47.m3u8",
+          "referer": "https://madoball.com/",
+          "user_agent": ""
         }
       ]
     },
@@ -72,11 +79,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://54.37.19.157/Discovery_Asia/tracks-v1a1/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "https://hls.iptv-th.workers.dev/live/57/playlist.m3u8",
           "referer": "",
@@ -115,7 +117,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://6395online.com:8080/live/Iptv6988/0905692638/140161.m3u8",
+          "url": "https://hls.iptv-th.workers.dev/live/49/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -226,9 +228,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/3119",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/foodnetwork",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     }
