@@ -180,14 +180,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115807&extension=ts",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115733&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/bein1",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1/playlist.m3u8",
@@ -221,6 +217,12 @@
       "user_agent": "",
       "urls": [
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/bein2",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/52/playlist.m3u8",
           "referer": "exo_player",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -251,6 +253,12 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/bein3",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
         {
           "url": "https://hls.iptv-th.workers.dev/live/53/playlist.m3u8",
           "referer": "exo_player",
