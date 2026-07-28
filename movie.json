@@ -488,6 +488,23 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
+    },
+    {
+      "id": 117,
+      "name": "rush",
+      "display_name": "rush",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/rush.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://kicksball.com/player/rush-stories",
+          "type": "web_url",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
     }
   ]
 }
