@@ -499,11 +499,18 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://kicksball.com/player/rush-stories",
+          "url": "https://kicksball.com/player/all-invalid-test-1",
+          "type": "web_url",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://kicksball.com/player/all-invalid-test-2",
           "type": "web_url",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
+             
       ]
     }
   ]
