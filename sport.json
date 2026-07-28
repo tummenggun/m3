@@ -148,6 +148,12 @@
       "user_agent": "",
       "urls": [
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tsp7",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
           "referer": "exo_player",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -346,9 +352,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115682&extension=ts",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/spotv",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/95/playlist.m3u8",
@@ -369,11 +376,6 @@
           "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941564",
           "referer": "",
           "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776064&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -387,9 +389,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115686&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/spotv2",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/96/playlist.m3u8",
@@ -405,16 +408,6 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=spotv2",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776067&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941563",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -1279,12 +1272,18 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=127990&extension=m3u8",
+          "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts",
           "referer": "",
           "user_agent": ""
         },
         {
-          "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts",
+          "type": "web_url",
+          "url": "https://kicksball.com/player/skysportsf1",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=127990&extension=m3u8",
           "referer": "",
           "user_agent": ""
         },
