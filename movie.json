@@ -124,19 +124,15 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://cdn2.stream.atmflix.live/atmflixlive/cinemax/playlist.m3u8 ",
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/cinemax/playlist.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776022&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://54.37.19.157/cinemax/tracks-v1a1/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/cinemax123",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -504,7 +500,23 @@
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
-             
+      ]
+    },
+    {
+      "id": 118,
+      "name": "alure",
+      "display_name": "alure",
+      "group": "Movie",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/alure.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://kicksball.com/player/alure-channel",
+          "type": "web_url",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
       ]
     }
   ]
