@@ -130,7 +130,7 @@
         },
         {
           "type": "web_url",
-          "url": "https://kicksball.com/player/cinemax123",
+          "url": "https://kicksball.com/player/cinemax",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
@@ -411,9 +411,10 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/33/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
+          "type": "web_url",
+          "url": "https://kicksball.com/player/rock-action",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -432,14 +433,10 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/32/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
-        },
-        {
-          "url": "http://45.144.165.187:8080/live/playidlive/12345/81.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
+          "type": "web_url",
+          "url": "https://kicksball.com/player/rock-entertainment",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
