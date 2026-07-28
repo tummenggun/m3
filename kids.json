@@ -100,27 +100,6 @@
       ]
     },
     {
-      "id": 6,
-      "name": "boom",
-      "display_name": "boom",
-      "group": "Kids",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/boom.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=116073&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        { 
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=116073&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
       "id": 7,
       "name": "XD",
       "display_name": "XD",
@@ -130,6 +109,12 @@
       "user_agent": "",
       "urls": [
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/disneyxd",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        { 
           "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
           "referer": "",
           "user_agent": ""
@@ -141,7 +126,7 @@
       "name": "boomerang",
       "display_name": "boomerang",
       "group": "Kids",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/boomerang.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/boom.png",
       "referer": "",
       "user_agent": "",
       "urls": [
