@@ -846,14 +846,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077001&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/foxsports1usa",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -867,14 +863,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://185.243.7.171:80/play/live.php?mac=00:1B:79:41:2C:DF&stream=2077000&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-foxsports2_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/foxsports2usa",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
