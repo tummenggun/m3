@@ -513,19 +513,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://feoalacarta23.top:80/play/live.php?mac=00:1B:79:38:29:4C&stream=1660493&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=ts",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115757&extension=ts",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/monomax1",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
@@ -544,24 +535,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776144&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776156&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://54.37.19.157/monomax2/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/monomax-2",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
