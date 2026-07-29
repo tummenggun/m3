@@ -135,16 +135,6 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://config-m3u8.mquanggiu290.workers.dev/ASIANmore.m3u8?token=vip1234",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=813028&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "https://hls.iptv-th.workers.dev/live/103/playlist.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0"
@@ -187,9 +177,10 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
-          "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0d:d8:22&stream=115415&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/truefilm1",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/101/playlist.m3u8",
@@ -213,14 +204,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115415&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.144.165.187:8080/live/playidlive/12345/79.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/truefilm28",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8",
@@ -238,16 +225,6 @@
       "referer": "",
       "user_agent": "",
       "urls": [
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115665&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115498&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
         {
           "url": "https://hls.iptv-th.workers.dev/live/106/playlist.m3u8",
           "referer": "",
@@ -273,21 +250,6 @@
           "url": "http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115720&extension=m3u8",
           "referer": "",
           "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776096&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.144.165.187:8080/live/playidlive/12345/66.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115720&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -301,9 +263,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/138",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/trueseries",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -317,17 +280,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115667&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
-        },
-        {
-          "url": "http://45.144.165.187:8080/live/playidlive/12345/64.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0"
         },
