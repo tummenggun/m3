@@ -111,9 +111,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/51333",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tpf4",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -575,22 +576,6 @@
       ]
     },
     {
-      "id": 6,
-      "name": "NFL",
-      "display_name": "NFL",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/nfl.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=1776132&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
       "id": 7,
       "name": "TNTSport1",
       "display_name": "TNT Sport1",
@@ -670,59 +655,6 @@
       "urls": [
         {
           "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1595637&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "bein-sport",
-      "display_name": "BEIN 1 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein1_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "bein-sport",
-      "display_name": "BEIN 2 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/my-bein2_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "cbs",
-      "display_name": "CBS Sport",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/cbs.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-cbssn_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61352&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1690,214 +1622,6 @@
       "urls": [
         {
           "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776194&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 142,
-      "name": "bein-sport",
-      "display_name": "BEIN 1 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://185.160.192.64:80/mangin15/85784/14170",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 142,
-      "name": "bein-sport",
-      "display_name": "BEIN 2 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://185.160.192.64:80/mangin15/85784/14169",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 143,
-      "name": "bein-sport",
-      "display_name": "BEIN 3 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein3EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://185.160.192.64:80/mangin15/85784/14163",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 144,
-      "name": "bein-sport",
-      "display_name": "BEIN 4 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein4EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985164&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 145,
-      "name": "bein-sport",
-      "display_name": "BEIN 5 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein5EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=798833&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 146,
-      "name": "bein-sport",
-      "display_name": "BEIN 6 EN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein6EN.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=985166&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 147,
-      "name": "FOX 501",
-      "display_name": "FOX 501",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox501.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox501_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 148,
-      "name": "FOX 502",
-      "display_name": "FOX 502",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox502.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944690&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 149,
-      "name": "FOX 503",
-      "display_name": "FOX 503",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox503.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox503_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 150,
-      "name": "FOX 504",
-      "display_name": "FOX 504",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox504.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://love.sayob28681.workers.dev:443/lx-origin/au-fox504_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 151,
-      "name": "FOX 505",
-      "display_name": "FOX 505",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox505.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944684&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 152,
-      "name": "FOX 506",
-      "display_name": "FOX 506",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox506.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944693&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 153,
-      "name": "FOX 507",
-      "display_name": "FOX 507",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/fox507.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=944694&extension=m3u8",
           "referer": "",
           "user_agent": ""
         }
