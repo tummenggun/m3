@@ -61,6 +61,12 @@
       "user_agent": "",
       "urls": [
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/nickelodeon",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/91/playlist.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0"
@@ -77,9 +83,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://103.114.203.129:8080/playidvip/12345/61463",
-          "referer": "",
-          "user_agent": ""
+          "type": "web_url",
+          "url": "https://kicksball.com/player/nickjr",
+          "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
