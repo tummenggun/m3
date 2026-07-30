@@ -16,6 +16,11 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp1/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd1",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -48,6 +53,11 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp2/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/147/playlist.m3u8",
           "referer": "exo_player",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -77,6 +87,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp3/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
@@ -155,6 +170,11 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp7/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
           "referer": "exo_player",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -221,6 +241,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/bein2",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein2/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
@@ -301,6 +326,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/golfchannel/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
         {
           "type": "web_url",
           "url": "https://kicksball.com/player/golfchannel",
