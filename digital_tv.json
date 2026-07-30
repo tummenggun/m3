@@ -101,6 +101,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
           "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
           "referer": "",
           "user_agent": ""
@@ -150,8 +155,8 @@
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/139/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
