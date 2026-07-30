@@ -130,6 +130,11 @@
           "url": "https://kicksball.com/player/tpf4",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -970,54 +975,6 @@
       ]
     },
     {
-      "id": 68,
-      "name": "playsport48",
-      "display_name": "PLAY SPORTS 48",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/PlaySports48.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "name": "playsport49",
-      "display_name": "PLAY SPORTS 49",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/PlaySports49.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "name": "playsport50",
-      "display_name": "PLAY SPORTS 50",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/PlaySports50.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
       "id": 72,
       "name": "redbull",
       "display_name": "Red Bull TV",
@@ -1064,17 +1021,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458669&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394557&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-epl_720/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1101,14 +1048,9 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=127990&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312243&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
