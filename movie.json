@@ -44,7 +44,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/71/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         }
       ]
@@ -71,7 +71,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/72/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         }
       ]
@@ -98,7 +98,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/73/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         }
       ]
@@ -136,7 +136,7 @@
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/103/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         },
         {
@@ -184,7 +184,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/101/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         },
         {
@@ -227,7 +227,7 @@
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/106/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         },
         {
@@ -246,6 +246,12 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/86/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+          "playInNatPlayer": "true"
+        },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truemoviehits/chunks.m3u8",
           "referer": "https://atmflix.live/",
@@ -281,7 +287,7 @@
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         },
         {
@@ -307,7 +313,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/120/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         }
       ]
@@ -328,7 +334,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/68/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         },
         {
@@ -403,7 +409,7 @@
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8",
-          "referer": "",
+          "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
         }
       ]
