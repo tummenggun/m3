@@ -14,6 +14,11 @@
           "url": "https://kicksball.com/player/cartoon-network",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -31,10 +36,15 @@
           "url": "https://kicksball.com/player/disney-channel",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/disney-channel/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
-{
+    {
       "id": 9,
       "name": "disney-jr",
       "display_name": "disney-jr",
@@ -47,6 +57,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/disney-junior",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/disney-junior/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -67,9 +82,9 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/91/playlist.m3u8",
-          "referer": "",
-          "user_agent": "Mozilla/5.0"
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -86,6 +101,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/nickjr",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -122,9 +142,9 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         { 
-          "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/disneyxd/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -141,6 +161,38 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/boomerang",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "cartoonito",
+      "display_name": "cartoonito",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/cartoonito.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "aniplus channel",
+      "display_name": "aniplus channel",
+      "group": "Kids",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/aniplus.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/anipluschannel/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
