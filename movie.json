@@ -148,8 +148,8 @@
     },
     {
       "id": 112,
-      "name": "trueasiahit",
-      "display_name": "ASIAN HIT",
+      "name": "3bbasian",
+      "display_name": "3bb asian hit",
       "group": "Movie",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/asianhit.png",
       "referer": "",
@@ -301,9 +301,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://live.iptv-th.workers.dev/live/74.m3u8",
-          "referer": "https://madoball.com/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/warnertv/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
           "url": "https://hls.iptv-th.workers.dev/live/120/playlist.m3u8",
@@ -438,6 +438,11 @@
           "type": "web_url",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/rush-stories/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -454,6 +459,11 @@
           "url": "https://kicksball.com/player/alure-channel",
           "type": "web_url",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/alure-channel/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
