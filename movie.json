@@ -12,7 +12,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Linux; Android 12; Chrome cast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chrome cast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "type": "web_url",
@@ -88,7 +88,7 @@
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo/playlist.m3u8",
           "referer": "https://atmflix.live/",
-          "user_agent": "ttp-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36"
         },
         {
           "type": "web_url",
@@ -142,7 +142,7 @@
         {
           "url": "https://live.iptv-th.workers.dev/live/80.m3u8",
           "referer": "https://madoball.com/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -190,7 +190,7 @@
         {
           "url": "https://live.iptv-th.workers.dev/live/67.m3u8",
           "referer": "https://madoball.com/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -205,7 +205,7 @@
       "urls": [
         {
           "type": "web_url",
-          "url": "https://kicksball.com/player/truefilm28",
+          "url": "https://kicksball.com/player/truefilm2",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
@@ -233,7 +233,7 @@
         {
           "url": "https://live.iptv-th.workers.dev/live/70.m3u8",
           "referer": "https://madoball.com/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -292,7 +292,7 @@
         {
           "url": "https://live.iptv-th.workers.dev/live/64.m3u8",
           "referer": "https://madoball.com/",
-          "user_agent": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
       ]
     },
@@ -319,7 +319,7 @@
     },
     {
       "id": 135,
-      "name": "ANX",
+      "name": "AXN",
       "display_name": "AXN",
       "group": "Movie",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/axn.png",
