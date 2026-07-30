@@ -108,8 +108,8 @@
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/49/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -123,14 +123,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115715&extension=m3u8&play_token=",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776095.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://hls.iptv-th.workers.dev/live/74/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -227,6 +222,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/foodnetwork",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/foodnetwork/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
