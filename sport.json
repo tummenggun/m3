@@ -607,7 +607,7 @@
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tnt1.png",
       "referer": "",
-      "user_agent": "NontonTV/35 (Android 9)",
+      "user_agent": "",
       "urls": [
         {
           "url": "https://hls.iptv-th.workers.dev/live/151/playlist.m3u8",
