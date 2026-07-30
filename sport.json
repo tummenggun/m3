@@ -135,6 +135,11 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/80/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -148,14 +153,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5",
-          "referer": "https://dookeela4.live",
-          "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://54.37.19.157/tsp5/tracks-v1a1/mono.m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://hls.iptv-th.workers.dev/live/115/playlist.m3u8",
+          "referer": "exo_player",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -354,9 +354,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://hls.iptv-th.workers.dev/live/124/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -373,11 +373,6 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        },
-        {
-          "url": "https://cors-proxy.cooks.fyi/https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
         },
         {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8",
@@ -540,6 +535,11 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/monomax1/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
@@ -559,6 +559,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/monomax-2",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/monomax2/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -605,6 +610,11 @@
       "user_agent": "NontonTV/35 (Android 9)",
       "urls": [
         {
+          "url": "https://hls.iptv-th.workers.dev/live/151/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154",
           "referer": "",
           "user_agent": ""
@@ -620,6 +630,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/152/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
+        },
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1153",
           "referer": "",
@@ -653,14 +668,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458651&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=77416&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://hls.iptv-th.workers.dev/live/154/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -1051,6 +1061,11 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/166/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -1080,6 +1095,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "https://hls.iptv-th.workers.dev/live/168/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=1312245&extension=m3u8",
           "referer": "",
           "user_agent": ""
@@ -1096,9 +1116,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394553&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
+          "url": "https://hls.iptv-th.workers.dev/live/164/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
