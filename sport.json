@@ -492,24 +492,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199/play/live.php?mac=10:27:BE:15:B8:77&stream=115805&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/truetennis/playlist.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-        },
-        {
-          "url": "http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115805&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776208&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -691,48 +676,6 @@
       ]
     },
     {
-      "id": 24,
-      "name": "espn1",
-      "display_name": "ESPN",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ESPN1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://41.205.93.154/ESPN/index.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "espn2",
-      "display_name": "ESPN 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/ESPN2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61342&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://41.223.30.230/ESPN2/index.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "https://love.sayob28681.workers.dev:443/vx-origin/us-espn2_720/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
       "id": 26,
       "name": "eurosport1",
       "display_name": "EURO Sport 1",
@@ -742,36 +685,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1127&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "type": "web_url",
           "url": "https://kicksball.com/player/eurosport",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "name": "eurosport2",
-      "display_name": "EURO Sport 2",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/eurosport2.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=897448&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1126&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -784,6 +701,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports1usa/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
         {
           "type": "web_url",
           "url": "https://kicksball.com/player/foxsports1usa",
@@ -805,6 +727,11 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/foxsports2usa",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports2usa/chunks.m3u8",
+          "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -852,59 +779,6 @@
       ]
     },
     {
-      "id": 33,
-      "name": "hubsport3",
-      "display_name": "HUB Sport 3",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sg-hubpremier03.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903773&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "name": "hubsport4",
-      "display_name": "HUB Sport 4",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sg-hubpremier04.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://185.243.7.195:80/play/live.php?mac=00:1B:79:3F:29:13&stream=1903767&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "name": "hubsport5",
-      "display_name": "HUB Sport 5",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sg-hubpremier05.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=1903775&extension=m3u8",
-          "referer": "",
-          "user_agent": ""
-        }
-      ]
-    },
-    {
       "id": 40,
       "name": "liverpooltv",
       "display_name": "Liverpool TV",
@@ -929,6 +803,11 @@
       "referer": "Plus-Official-Box",
       "user_agent": "",
       "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/mutv/chunks.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
           "referer": "Plus-Official-Box",
