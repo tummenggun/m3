@@ -18,6 +18,22 @@
     },
     {
       "id": 2,
+      "name": "sky f1 und",
+      "display_name": "sky f1 und",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/f1uhd.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:19:79:D2&stream=1312007&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
       "name": "beIN",
       "display_name": "beIN 4K 01",
       "group": "4k",
