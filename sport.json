@@ -508,14 +508,9 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=mono29",
-          "referer": "https://drift.dooflixlive.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+          "referer": "",
+          "user_agent": "Plus-Official-Box"
         }
       ]
     },
