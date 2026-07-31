@@ -1500,6 +1500,38 @@
     },
     {
       "id": 141,
+      "name": "Pluto",
+      "display_name": "Pluto Snooker",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/plutosnooker.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+      ]
+    },
+{
+      "id": 142,
+      "name": "Plutosport",
+      "display_name": "Pluto sport",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/plutosnooker.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+              ]
+    },
+    {
+      "id": 143,
       "name": "tsports",
       "display_name": "T SPORTS",
       "group": "Sport",
@@ -1512,7 +1544,7 @@
           "referer": "",
           "user_agent": ""
         }
-      ]
+              ]
     }
   ]
 }
