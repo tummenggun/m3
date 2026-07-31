@@ -508,6 +508,7 @@
       "user_agent": "Plus-Official-Box",
       "urls": [
         {
+          "type": "hls",
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=mono29",
           "referer": "",
           "user_agent": "Plus-Official-Box"
