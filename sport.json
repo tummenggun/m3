@@ -565,6 +565,11 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/monomax2/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8",
+          "referer": "https://footballsod.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
@@ -1519,7 +1524,7 @@
       "name": "Plutosport",
       "display_name": "Pluto sport",
       "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/plutosnooker.png",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/plutosport.png",
       "referer": "",
       "user_agent": "",
       "urls": [
