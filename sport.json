@@ -590,6 +590,102 @@
       ]
     },
     {
+      "id": 45,
+      "name": "playsports 55 NBA ",
+      "display_name": "playsports 55",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport55.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports55/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "playsports 57 WNBA",
+      "display_name": "playsports 57",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport57.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports57/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "playsports 61(GOLF)",
+      "display_name": "playsports 61",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport61.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports61/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "playsports 66(LPGA)",
+      "display_name": "playsports 66",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport66.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports66/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "playsports 69 DA Tour",
+      "display_name": "playsports 69",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport69.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports69/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "playsports 71 ATP Tour",
+      "display_name": "playsports 71",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/playsport71.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports71/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
       "id": 5,
       "name": "MonsterJam",
       "display_name": "Monster Jam",
@@ -997,6 +1093,11 @@
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_contentId=4403",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/onefc/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "https://one.shchenyu8810.workers.dev/live/one/index.m3u8",
