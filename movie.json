@@ -241,6 +241,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://45.139.122.199/play/live.php?mac=00:1A:79:6E:0D:02&stream=115665&extension=m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/106/playlist.m3u8",
           "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0"
