@@ -837,6 +837,22 @@
     },
     {
       "id": 56,
+      "name": "real tv",
+      "display_name": "Real Madrid TV",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/real.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/430/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 56,
       "name": "nbc",
       "display_name": "NBC Sport",
       "group": "Sport",
