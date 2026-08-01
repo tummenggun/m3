@@ -68,23 +68,6 @@
           "user_agent": "IINA"
         }
       ]
-    },
-    {
-      "id": 4,
-      "name": "test",
-      "display_name": "1st",
-      "group": "4k",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/hd-tsport1.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "type": "web_url",
-          "url": "https://ball67.com/channels/bein1/",
-          "referer": "https://ball67.com/channels/bein1/",
-          "user_agent": "Mozilla/5.0"
-        }
-      ]
     }
     
   ]
