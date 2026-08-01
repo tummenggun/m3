@@ -539,6 +539,11 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
+        },
+        {
+          "url": "http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115757&extension=ts",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -800,6 +805,54 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/eurosport",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "motor_vision",
+      "display_name": "motor_vision",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/motorvision.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Rally TV",
+      "display_name": "Rally TV",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/rallytv.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "trace_sports_stars",
+      "display_name": "trace_sports_stars",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/trace.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+          "referer": "",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -1329,7 +1382,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61369&extension=m3u8",
+          "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
           "referer": "",
           "user_agent": ""
         }
