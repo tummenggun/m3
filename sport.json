@@ -858,6 +858,38 @@
       ]
     },
     {
+      "id": 29,
+      "name": "Sports Fishing",
+      "display_name": "Sports Fishing",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/sportfish.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Hunt Fish TV",
+      "display_name": "Hunt Fish TV",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/huntfish.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
       "id": 28,
       "name": "fox 1",
       "display_name": "FOX SPORT 1",
