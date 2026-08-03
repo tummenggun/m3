@@ -804,8 +804,8 @@
     },
     {
       "id": 26,
-      "name": "eurosport1",
-      "display_name": "EURO Sport 1",
+      "name": "eurosport",
+      "display_name": "EURO Sport",
       "group": "Sport",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/eurosport.png",
       "referer": "",
@@ -815,6 +815,38 @@
           "type": "web_url",
           "url": "https://kicksball.com/player/eurosport",
           "referer": "https://kicksball.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "eurosport 1",
+      "display_name": "EURO Sport 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/eurosport1.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://tfx1.com:8080/YzE2Tm1DbmdvamtIQU03ZHU1K0ZZclR3RGhiZ24zL0lBcUhUbUtMMWNnVmVjbkxBWlZRVTl3RGxPVjVLRlBUTA",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "eurosport 2",
+      "display_name": "EURO Sport 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/eurosport2.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://tfx1.com:8080/YzE2Tm1DbmdvamtIQU03ZHU1K0ZZclR3RGhiZ24zL0lBcUhUbUtMMWNnVU1MYlNsVExuTVVQeElCK2lYRjJsUQ",
+          "referer": "",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -1266,6 +1298,11 @@
         },
         {
           "url": "http://25062025.xyz:80/susan/randall/93772",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://tfx1.com:8080/YzE2Tm1DbmdvamtIQU03ZHU1K0ZZclR3RGhiZ24zL0lBcUhUbUtMMWNnVUFSaHNocjdjZmlHdStPM1RMVjhzcQ",
           "referer": "",
           "user_agent": ""
         },
