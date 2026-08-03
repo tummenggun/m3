@@ -539,11 +539,6 @@
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=ais_sport1_mono",
           "referer": "https://dookeela4.live",
           "user_agent": "Plus-Official-Box"
-        },
-        {
-          "url": "http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115757&extension=ts",
-          "referer": "",
-          "user_agent": ""
         }
       ]
     },
@@ -712,14 +707,19 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://hls.iptv-th.workers.dev/live/151/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
+          "url": "http://25062025.xyz:80/susan/randall/198576",
+          "referer": "",
           "user_agent": "Mozilla/5.0"
         },
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1154",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/151/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -733,14 +733,19 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://hls.iptv-th.workers.dev/live/152/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
+          "url": "http://25062025.xyz:80/susan/randall/198581",
+          "referer": "",
           "user_agent": "Mozilla/5.0"
         },
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1153",
           "referer": "",
           "user_agent": "NontonTV/35 (Android 9)"
+        },
+        {
+          "url": "https://hls.iptv-th.workers.dev/live/152/playlist.m3u8",
+          "referer": "https://playtvfree.netlify.app/",
+          "user_agent": "Mozilla/5.0"
         }
       ]
     },
@@ -753,6 +758,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://25062025.xyz:80/susan/randall/198586",
+          "referer": "",
+          "user_agent": "Mozilla/5.0"
+        },
         {
           "url": "http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1152",
           "referer": "",
@@ -770,8 +780,8 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://hls.iptv-th.workers.dev/live/154/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
+          "url": "http://25062025.xyz:80/susan/randall/198591",
+          "referer": "",
           "user_agent": "Mozilla/5.0"
         }
       ]
@@ -1043,7 +1053,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://elt.ipfr.tv/play/live.php?mac=00:1A:79:B3:73:4C&stream=fr.tv/ch/61444&extension=m3u8",
+          "url": "http://stream.cammonitorplus.net/1795/index.m3u8",
           "referer": "",
           "user_agent": ""
         }
@@ -1213,12 +1223,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://liveera.live/demo_app/11952/playlist.m3u8",
-          "referer": "",
-          "user_agent": ""
-        },
-        {
-          "url": "https://love.sayob28681.workers.dev:443/vx-origin/uk-skysports-action_720/playlist.m3u8",
+          "url": "http://25062025.xyz:80/susan/randall/59957",
           "referer": "",
           "user_agent": ""
         }
@@ -1237,6 +1242,11 @@
           "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394557&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://25062025.xyz:80/susan/randall/42499",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -1251,6 +1261,11 @@
       "urls": [
         {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://25062025.xyz:80/susan/randall/93772",
           "referer": "",
           "user_agent": ""
         },
@@ -1285,6 +1300,16 @@
           "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:09:98:FB&stream=394555&extension=m3u8",
           "referer": "",
           "user_agent": ""
+        },
+        {
+          "url": "http://25062025.xyz:80/susan/randall/104209",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts",
+          "referer": "",
+          "user_agent": ""
         }
       ]
     },
@@ -1297,6 +1322,11 @@
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://25062025.xyz:80/susan/randall/85789",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "https://hls.iptv-th.workers.dev/live/168/playlist.m3u8",
           "referer": "https://playtvfree.netlify.app/",
@@ -1319,6 +1349,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2185.ts",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/164/playlist.m3u8",
           "referer": "https://playtvfree.netlify.app/",
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -1335,7 +1370,7 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://185.80.197.39:80/play/live.php?mac=00:1A:79:E7:C9:5B&stream=1458657&extension=m3u8",
+          "url": "http://25062025.xyz:80/susan/randall/64468",
           "referer": "",
           "user_agent": ""
         },
@@ -1356,7 +1391,12 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1434780&extension=m3u8",
+          "url": "http://25062025.xyz:80/susan/randall/1706",
+          "referer": "",
+          "user_agent": ""
+        },
+        {
+          "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts",
           "referer": "",
           "user_agent": ""
         },
@@ -1398,7 +1438,7 @@
           "user_agent": ""
         },
         {
-          "url": "http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:00:2A:5E&stream=1458813&extension=m3u8",
+          "url": "http://25062025.xyz:80/susan/randall/110353",
           "referer": "",
           "user_agent": ""
         }
