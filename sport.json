@@ -1828,8 +1828,8 @@
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein1",
           "type": "hls",
-          "referer": "Plus-Official-Box",
-          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+          "referer": "",
+          "user_agent": "Plus-Official-Box"
         }
       ]
     }
