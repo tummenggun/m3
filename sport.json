@@ -153,6 +153,11 @@
       "user_agent": "",
       "urls": [
         {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd5",
+          "referer": "",
+          "user_agent": "Plus-Official-Box"
+        },
+        {
           "url": "https://hls.iptv-th.workers.dev/live/115/playlist.m3u8",
           "referer": "exo_player",
           "user_agent": "Mozilla/5.0"
@@ -1809,6 +1814,23 @@
           "user_agent": ""
         }
               ]
+    },
+    {
+      "id": 112,
+      "name": "test",
+      "display_name": "test",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
+      "referer": "",
+      "user_agent": "",
+      "buffer_preset": "balanced",
+      "urls": [
+        {
+          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2",
+          "referer": "Plus-Official-Box",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        }
+      ]
     }
   ]
 }
