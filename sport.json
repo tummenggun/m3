@@ -1814,24 +1814,6 @@
           "user_agent": ""
         }
               ]
-    },
-    {
-      "id": 112,
-      "name": "test",
-      "display_name": "test",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
-      "referer": "",
-      "user_agent": "",
-      "buffer_preset": "balanced",
-      "urls": [
-        {
-          "url": "http://api.plus-server.sbs/play.php?key=1234&ch=bein1",
-          "type": "hls",
-          "referer": "",
-          "user_agent": "Plus-Official-Box"
-        }
-      ]
     }
   ]
 }
