@@ -380,9 +380,32 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tpf4",
+          "referer": "https://kicksball.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        },
+        {
           "url": "https://cdn1.googlecdnforstreaming.live/live/tpf4/chunks.m3u8",
           "referer": "",
           "user_agent": ""
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "truepremierfootball5",
+      "display_name": "True Premier Football 5",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/truepremierfootball5.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "type": "web_url",
+          "url": "https://kicksball.com/player/tpf5",
+          "referer": "https://kicksball.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       ]
     },
