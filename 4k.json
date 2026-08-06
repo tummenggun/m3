@@ -7,6 +7,7 @@
       "group": "4k",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/vsporthd.png",
       "referer": "",
+      "buffer_preset": "stable",
       "user_agent": "",
       "urls": [
         {
@@ -22,9 +23,15 @@
       "display_name": "sky f1 und",
       "group": "4k",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/f1uhd.png",
+      "buffer_preset": "stable",
       "referer": "",
       "user_agent": "",
       "urls": [
+        {
+          "url": "http://exclusifott.pro:80/play/live.php?mac=00:1A:79:FB:49:D1&stream=1471382&extension=ts",
+          "referer": "",
+          "user_agent": ""
+        },
         {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312007&extension=ts",
           "referer": "",
@@ -44,6 +51,7 @@
       "group": "4k",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/beinhd.png",
       "referer": "",
+      "buffer_preset": "stable",
       "user_agent": "",
       "urls": [
         {
@@ -60,12 +68,30 @@
       "group": "4k",
       "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/tnt4k.png",
       "referer": "",
+      "buffer_preset": "stable",
       "user_agent": "",
       "urls": [
         {
           "url": "http://25062025.xyz:80/susan/randall/14631",
           "referer": "",
           "user_agent": "IINA"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SKY SPORTS MAIN EVENTS UHD",
+      "display_name": "SKY SPORTS MAIN EVENTS UHD",
+      "group": "4k",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/uk-skysports-mainevent.png",
+      "referer": "",
+      "buffer_preset": "stable",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://exclusifott.pro:80/play/live.php?mac=00:1A:79:FB:49:D1&stream=1608071&extension=ts",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     }
