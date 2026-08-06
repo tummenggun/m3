@@ -1805,6 +1805,40 @@
           "user_agent": ""
         }
               ]
+    },
+    {
+      "id": 144,
+      "name": "being",
+      "display_name": "being1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein1th.png",
+      "referer": "",
+      "buffer_preset": "stable",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841552&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+              ]
+    },
+    {
+      "id": 144,
+      "name": "being",
+      "display_name": "being2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/bein2th.png",
+      "referer": "",
+      "buffer_preset": "stable",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841553&extension=m3u8",
+          "referer": "",
+          "user_agent": ""
+        }
+              ]
     }
   ]
 }
