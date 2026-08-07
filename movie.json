@@ -130,9 +130,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/62/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -247,9 +248,10 @@
           "user_agent": "Mozilla/5.0"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/106/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0"
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         },
         {
           "url": "https://live.iptv-th.workers.dev/live/70.m3u8",
@@ -317,9 +319,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://hls.iptv-th.workers.dev/live/117/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0"
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         },
         {
           "url": "https://live.iptv-th.workers.dev/live/64.m3u8",
@@ -364,9 +367,10 @@
           "user_agent": ""
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/68/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0"
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -434,9 +438,10 @@
       "user_agent": "",
       "urls": [
         {
-          "url": "https://hls.iptv-th.workers.dev/live/34/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0"
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
