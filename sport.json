@@ -583,6 +583,54 @@
     },
     {
       "id": 45,
+      "name": "VOLLEYBALL 1",
+      "display_name": "VOLLEYBALL 1",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/volleyballu17.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/vbtv/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "VOLLEYBALL 2",
+      "display_name": "VOLLEYBALL 2",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/volleyballu17.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "playsports 51 NFL ",
+      "display_name": "playsports 51",
+      "group": "Sport",
+      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/play51.png",
+      "referer": "",
+      "user_agent": "",
+      "urls": [
+        {
+          "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports51/playlist.m3u8",
+          "referer": "https://atmflix.live/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      ]
+    },
+    {
+      "id": 45,
       "name": "playsports 55 NBA ",
       "display_name": "playsports 55",
       "group": "Sport",
@@ -842,6 +890,11 @@
       "urls": [
         {
           "url": "http://tfx1.com:8080/YzE2Tm1DbmdvamtIQU03ZHU1K0ZZclR3RGhiZ24zL0lBcUhUbUtMMWNnVU1MYlNsVExuTVVQeElCK2lYRjJsUQ",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://145.239.5.177/530/index.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
