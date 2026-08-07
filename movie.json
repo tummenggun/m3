@@ -103,7 +103,7 @@
         },
         {
           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
-          "type": "hls"
+          "type": "hls",
           "referer": "",
           "user_agent": "ExoPlayer"
         }
