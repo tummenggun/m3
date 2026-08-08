@@ -185,9 +185,10 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/116/playlist.m3u8",
-          "referer": "exo_player",
-          "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/218069.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         },
         {
           "url": "http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7",
@@ -223,6 +224,12 @@
         },
         {
           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/218084.m3u8",
           "type": "hls",
           "referer": "",
           "user_agent": "ExoPlayer"
@@ -433,9 +440,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/95/playlist.m3u8",
-          "referer": "exo_player",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/218079.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv/playlist.m3u8",
@@ -468,11 +476,6 @@
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
-        },
-        {
-          "url": "https://hls.iptv-th.workers.dev/live/96/playlist.m3u8",
-          "referer": "exo_player",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         },
         {
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv2/playlist.m3u8",
@@ -1113,22 +1116,6 @@
           "url": "https://hls.iptv-th.workers.dev/live/162/playlist.m3u8",
           "referer": "",
           "user_agent": "Mozilla/5.0"
-        }
-      ]
-    },
-    {
-      "id": 56,
-      "name": "real tv",
-      "display_name": "Real Madrid TV",
-      "group": "Sport",
-      "logo": "https://raw.githubusercontent.com/tummeng21/logo/main/real.png",
-      "referer": "",
-      "user_agent": "",
-      "urls": [
-        {
-          "url": "https://hls.iptv-th.workers.dev/live/430/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
-          "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
     },
