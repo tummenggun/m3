@@ -304,6 +304,7 @@
         },
         {
           "url": "http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8",
+          "type": "hls",
           "referer": "",
           "user_agent": "ExoPlayer"
         }
@@ -326,6 +327,7 @@
         },
         {
           "url": "http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8",
+          "type": "hls",
           "referer": "",
           "user_agent": "ExoPlayer"
         },
