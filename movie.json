@@ -303,8 +303,8 @@
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         },
         {
-          "url": "https://hls.iptv-th.workers.dev/live/112/playlist.m3u8",
-          "referer": "https://playtvfree.netlify.app/",
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/103.m3u8",
+          "referer": "",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
         }
       ]
@@ -323,6 +323,11 @@
           "type": "hls",
           "referer": "",
           "user_agent": "ExoPlayer"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/104.m3u8",
+          "referer": "",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         },
         {
           "url": "https://live.iptv-th.workers.dev/live/64.m3u8",
