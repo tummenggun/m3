@@ -19,6 +19,12 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/2772.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -85,6 +91,12 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/78020.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -107,6 +119,12 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/78019.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -162,6 +180,12 @@
           "url": "https://kicksball.com/player/boomerang",
           "referer": "https://kicksball.com",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/264115.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
@@ -178,6 +202,12 @@
           "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8",
           "referer": "https://atmflix.live/",
           "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140"
+        },
+        {
+          "url": "http://mooseven.ddns.net:8080/live/test/testm7/78010.m3u8",
+          "type": "hls",
+          "referer": "",
+          "user_agent": "ExoPlayer"
         }
       ]
     },
